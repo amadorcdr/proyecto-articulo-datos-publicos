@@ -1,0 +1,1679 @@
+ENTIDAD,NOM_ENT,MUN,NOM_MUN,LOC,NOM_LOC,VPH_C_ELEC,VPH_INTER,VPH_CEL,VPH_STVP,VPH_PC
+17,Morelos,000,Total de la entidad Morelos,0000,Total de la Entidad,556409,307830,499787,222853,204850
+17,Morelos,000,Total de la entidad Morelos,9998,Localidades de una vivienda,132,40,145,35,23
+17,Morelos,000,Total de la entidad Morelos,9999,Localidades de dos viviendas,147,30,150,30,18
+17,Morelos,001,Amacuzac,0000,Total del Municipio,4940,1919,4056,1833,979
+17,Morelos,001,Amacuzac,0001,Amacuzac,1614,811,1442,835,486
+17,Morelos,001,Amacuzac,0002,Cajones,149,39,122,27,24
+17,Morelos,001,Amacuzac,0003,Casahuatlán,497,123,400,72,54
+17,Morelos,001,Amacuzac,0004,Coahuixtla,309,99,238,61,40
+17,Morelos,001,Amacuzac,0005,Huajintlán,514,177,411,219,101
+17,Morelos,001,Amacuzac,0006,Miahuatlán (El Cuiji),143,45,106,50,17
+17,Morelos,001,Amacuzac,0007,Rancho Nuevo,229,57,164,40,13
+17,Morelos,001,Amacuzac,0008,San Gabriel las Palmas,860,360,664,296,171
+17,Morelos,001,Amacuzac,0009,Teacalco,212,89,158,107,27
+17,Morelos,001,Amacuzac,0010,Zoquital,36,1,32,1,2
+17,Morelos,001,Amacuzac,0012,Campo Nuevo,10,2,8,1,0
+17,Morelos,001,Amacuzac,0016,Colonia el Campamento,53,24,44,18,9
+17,Morelos,001,Amacuzac,0019,Colonia Ejidal,100,35,85,50,11
+17,Morelos,001,Amacuzac,0021,Los Limones,49,24,45,15,9
+17,Morelos,001,Amacuzac,0026,Colonia Oriental,53,5,39,6,4
+17,Morelos,001,Amacuzac,0033,Tula,7,0,6,5,0
+17,Morelos,001,Amacuzac,0036,Colonia Ocampo,10,1,9,0,1
+17,Morelos,001,Amacuzac,0037,El Campamento,23,10,18,5,3
+17,Morelos,001,Amacuzac,0041,Villa Verde,15,3,16,4,1
+17,Morelos,001,Amacuzac,0042,Parada de Coahuixtla (Colonia Benito Juárez),12,2,10,3,1
+17,Morelos,001,Amacuzac,0043,La Primera (El Ladrón),4,0,5,1,0
+17,Morelos,001,Amacuzac,0044,La Calera,6,5,6,4,3
+17,Morelos,001,Amacuzac,0047,El Paso de Miahuatlán,*,*,*,*,*
+17,Morelos,001,Amacuzac,0048,El Rosal (El Alacrán),3,0,3,0,0
+17,Morelos,001,Amacuzac,0050,Los Baños de Tula,*,*,*,*,*
+17,Morelos,001,Amacuzac,0051,Campo la Cazuela,*,*,*,*,*
+17,Morelos,001,Amacuzac,0053,Colonia Ojo de Agua,15,1,11,5,1
+17,Morelos,001,Amacuzac,0057,Campo la Respiración,3,2,3,1,0
+17,Morelos,001,Amacuzac,0059,Colonia Cuauhtémoc,4,2,2,1,1
+17,Morelos,001,Amacuzac,0060,Colonia el Mirador,6,2,5,2,0
+17,Morelos,001,Amacuzac,0063,La Peña,*,*,*,*,*
+17,Morelos,001,Amacuzac,9998,Localidades de una vivienda,2,0,2,2,0
+17,Morelos,001,Amacuzac,9999,Localidades de dos viviendas,*,*,*,*,*
+17,Morelos,002,Atlatlahucan,0000,Total del Municipio,6937,2882,6320,2316,2051
+17,Morelos,002,Atlatlahucan,0001,Atlatlahucan,2388,1086,2075,654,600
+17,Morelos,002,Atlatlahucan,0002,Telchicayac (El Cabellito),68,8,57,12,9
+17,Morelos,002,Atlatlahucan,0008,Colonia Kilómetro 88,281,66,260,68,68
+17,Morelos,002,Atlatlahucan,0014,San Diego Tepantongo,118,11,99,67,6
+17,Morelos,002,Atlatlahucan,0016,Santa Inés,20,4,18,6,3
+17,Morelos,002,Atlatlahucan,0018,Telminca,11,3,10,3,2
+17,Morelos,002,Atlatlahucan,0020,San Juan Texcalpan,376,119,333,106,57
+17,Morelos,002,Atlatlahucan,0021,Tlaltetelco (San Miguel Tlaltetelco),553,141,492,136,108
+17,Morelos,002,Atlatlahucan,0022,Barranca Seca,8,2,8,1,1
+17,Morelos,002,Atlatlahucan,0025,Colonia San Francisco,399,99,371,71,84
+17,Morelos,002,Atlatlahucan,0028,Asociación de Colonos Hacienda la Alborada,42,29,38,22,22
+17,Morelos,002,Atlatlahucan,0029,El Astillero,92,4,71,20,3
+17,Morelos,002,Atlatlahucan,0030,Centro Asturiano de México,*,*,*,*,*
+17,Morelos,002,Atlatlahucan,0031,Rancho Zacanco (La Cueva),72,21,68,17,11
+17,Morelos,002,Atlatlahucan,0033,Fraccionamiento Lomas de Cocoyoc,959,907,940,764,803
+17,Morelos,002,Atlatlahucan,0036,Unidad Habitacional Vicente Guerrero,156,60,143,39,37
+17,Morelos,002,Atlatlahucan,0039,Rancho Temecatitla,12,2,12,7,4
+17,Morelos,002,Atlatlahucan,0043,Colonia el Salto,41,5,40,11,6
+17,Morelos,002,Atlatlahucan,0044,Los Cerritos,136,42,128,38,32
+17,Morelos,002,Atlatlahucan,0046,Fraccionamiento Jardines de Jericó,4,1,3,1,1
+17,Morelos,002,Atlatlahucan,0047,El Jaral,*,*,*,*,*
+17,Morelos,002,Atlatlahucan,0049,Loma de Malpaís,*,*,*,*,*
+17,Morelos,002,Atlatlahucan,0053,Puntas de Malpaís (Malpaís),5,2,5,2,1
+17,Morelos,002,Atlatlahucan,0054,Colonia Campestre Lomas de Texcalpan,46,12,49,14,9
+17,Morelos,002,Atlatlahucan,0057,Rancho Santa Cruz,*,*,*,*,*
+17,Morelos,002,Atlatlahucan,0058,Rancho Teoxtoc,7,3,7,1,1
+17,Morelos,002,Atlatlahucan,0060,Campo Caballojapa,7,2,6,0,2
+17,Morelos,002,Atlatlahucan,0061,Colonia el Puente,31,12,32,7,5
+17,Morelos,002,Atlatlahucan,0062,Jagüeycillos (Colonia 10 de Mayo),53,5,52,15,14
+17,Morelos,002,Atlatlahucan,0066,Ampliación San Antonio,52,10,49,10,8
+17,Morelos,002,Atlatlahucan,0067,Colonia la Guadalupana,74,3,69,13,2
+17,Morelos,002,Atlatlahucan,0068,Las Minas,578,131,555,111,104
+17,Morelos,002,Atlatlahucan,0070,Colonia Pozo Mancera,162,41,154,39,20
+17,Morelos,002,Atlatlahucan,0071,Colonia Rancho Santa Cruz,52,16,46,9,4
+17,Morelos,002,Atlatlahucan,0073,Rancho la Tortuga,17,3,16,6,4
+17,Morelos,002,Atlatlahucan,0076,Ameyalco,6,1,3,0,0
+17,Morelos,002,Atlatlahucan,0077,Fraccionamiento Tehuicil,31,14,29,15,10
+17,Morelos,002,Atlatlahucan,0078,Colonia Alta Vista,13,3,14,8,0
+17,Morelos,002,Atlatlahucan,0079,Campo Tlacotlaco,43,8,43,15,6
+17,Morelos,002,Atlatlahucan,0080,Linda Vista,5,2,6,1,0
+17,Morelos,002,Atlatlahucan,0081,Pilalpuente [Rancho],14,2,13,5,2
+17,Morelos,002,Atlatlahucan,9998,Localidades de una vivienda,*,*,*,*,*
+17,Morelos,002,Atlatlahucan,9999,Localidades de dos viviendas,4,2,5,2,2
+17,Morelos,003,Axochiapan,0000,Total del Municipio,9848,3304,8487,2535,1881
+17,Morelos,003,Axochiapan,0001,Axochiapan,4834,1968,4255,1382,1105
+17,Morelos,003,Axochiapan,0002,Ahuaxtla,57,13,50,7,11
+17,Morelos,003,Axochiapan,0003,Atlacahualoya,937,229,775,233,104
+17,Morelos,003,Axochiapan,0004,Los Carros,11,0,8,6,0
+17,Morelos,003,Axochiapan,0005,Cayehuacán,75,21,63,25,7
+17,Morelos,003,Axochiapan,0006,Joaquín Camaño,121,43,92,62,27
+17,Morelos,003,Axochiapan,0007,Marcelino Rodríguez (San Ignacio),546,182,441,140,88
+17,Morelos,003,Axochiapan,0008,Palo Blanco,60,4,55,9,5
+17,Morelos,003,Axochiapan,0009,Quebrantadero,758,356,645,261,265
+17,Morelos,003,Axochiapan,0010,Telixtac,1305,207,1078,180,96
+17,Morelos,003,Axochiapan,0011,Tlalayo,206,85,172,44,42
+17,Morelos,003,Axochiapan,0014,Coayuca Colonia de Morelos,11,2,10,4,0
+17,Morelos,003,Axochiapan,0015,Los Gavilanes,31,4,25,5,4
+17,Morelos,003,Axochiapan,0016,Las Tinajas,*,*,*,*,*
+17,Morelos,003,Axochiapan,0017,La Nopalera,73,18,65,22,7
+17,Morelos,003,Axochiapan,0018,El Papagayo,34,9,29,3,7
+17,Morelos,003,Axochiapan,0020,La Toma,68,12,63,4,13
+17,Morelos,003,Axochiapan,0021,Colonia los Laureles,45,10,41,12,10
+17,Morelos,003,Axochiapan,0022,La Estación,*,*,*,*,*
+17,Morelos,003,Axochiapan,0024,El Puente del Pajarito,*,*,*,*,*
+17,Morelos,003,Axochiapan,0026,5 de Mayo,24,6,25,3,1
+17,Morelos,003,Axochiapan,0028,Juan Ortega Sánchez,16,4,17,5,1
+17,Morelos,003,Axochiapan,0029,Unidad Habitacional Benito Juárez,42,15,40,13,11
+17,Morelos,003,Axochiapan,0036,Barranca del Ahuehuete,*,*,*,*,*
+17,Morelos,003,Axochiapan,0037,Campo el Coyul,*,*,*,*,*
+17,Morelos,003,Axochiapan,0039,Campo el Pajarito (Sistema de Agua Potable),*,*,*,*,*
+17,Morelos,003,Axochiapan,0041,Campo la Zacatera,51,7,46,4,6
+17,Morelos,003,Axochiapan,0042,Sistema Uno de Bombeo,*,*,*,*,*
+17,Morelos,003,Axochiapan,0044,Santa María,2,0,4,0,0
+17,Morelos,003,Axochiapan,0045,La Huerta (La Bomba Dos),6,0,6,2,0
+17,Morelos,003,Axochiapan,0046,La Joya del Zompa,*,*,*,*,*
+17,Morelos,003,Axochiapan,0048,Los Linderos (Fábrica de Yeso),5,0,6,0,0
+17,Morelos,003,Axochiapan,0049,El Mezquital,*,*,*,*,*
+17,Morelos,003,Axochiapan,0054,Rancho Cabrera,5,0,5,1,1
+17,Morelos,003,Axochiapan,0055,Rancho el Mirador,*,*,*,*,*
+17,Morelos,003,Axochiapan,0056,Rancho Isaías,9,5,9,5,5
+17,Morelos,003,Axochiapan,0057,Rancho María de Jesús Barrera,22,3,19,7,2
+17,Morelos,003,Axochiapan,0058,Colonia Rubén Carrillo,34,18,31,3,9
+17,Morelos,003,Axochiapan,0059,Campo el Pedregal,*,*,*,*,*
+17,Morelos,003,Axochiapan,0060,Cuauhtémoc,115,23,104,25,13
+17,Morelos,003,Axochiapan,0061,Ampliación Juan González y Año 2000,14,2,14,3,4
+17,Morelos,003,Axochiapan,0063,Campo la Comunidad,9,2,7,1,0
+17,Morelos,003,Axochiapan,0064,Campo la Laguna,28,5,27,12,3
+17,Morelos,003,Axochiapan,0067,Colonia los Tres Reyes,12,0,12,2,1
+17,Morelos,003,Axochiapan,0069,El Edén [Rancho],7,2,5,1,1
+17,Morelos,003,Axochiapan,0072,Campo el Papayo,*,*,*,*,*
+17,Morelos,003,Axochiapan,0073,Campo Jicamal,38,3,34,4,2
+17,Morelos,003,Axochiapan,0074,Colonia el CBTA,43,8,34,4,4
+17,Morelos,003,Axochiapan,0075,Colonia las Palmas,30,14,29,6,10
+17,Morelos,003,Axochiapan,0076,Colonia Nueva Esperanza,3,1,3,0,0
+17,Morelos,003,Axochiapan,0077,Almolonca,4,1,3,0,1
+17,Morelos,003,Axochiapan,0078,Colonia Carrillo Olea (La Primavera),63,8,53,14,3
+17,Morelos,003,Axochiapan,0080,Colonia 2000,22,3,20,4,2
+17,Morelos,003,Axochiapan,0081,Colonia la Guadalupana,26,3,24,7,3
+17,Morelos,003,Axochiapan,0082,Colonia Florida,13,1,11,0,1
+17,Morelos,003,Axochiapan,0083,Colonia Cuatecomates,11,3,11,4,3
+17,Morelos,003,Axochiapan,0084,Colonia Morelos,5,1,4,1,0
+17,Morelos,003,Axochiapan,0085,Presa los Carros,*,*,*,*,*
+17,Morelos,003,Axochiapan,9998,Localidades de una vivienda,6,1,6,1,2
+17,Morelos,003,Axochiapan,9999,Localidades de dos viviendas,11,2,11,4,1
+17,Morelos,004,Ayala,0000,Total del Municipio,24765,9905,21878,6384,6568
+17,Morelos,004,Ayala,0001,Ciudad Ayala,1803,854,1632,709,646
+17,Morelos,004,Ayala,0002,Abelardo L. Rodríguez,582,194,512,143,152
+17,Morelos,004,Ayala,0004,Anenecuilco,3095,1262,2746,809,801
+17,Morelos,004,Ayala,0005,San Pedro Apatlaco,3727,1734,3303,1033,1088
+17,Morelos,004,Ayala,0006,Benito Juárez,90,25,80,19,14
+17,Morelos,004,Ayala,0008,Chinameca,902,344,793,170,134
+17,Morelos,004,Ayala,0010,Huacatlaco (Los Anonos),84,0,63,16,6
+17,Morelos,004,Ayala,0011,Huitzililla,726,140,547,40,78
+17,Morelos,004,Ayala,0012,Jaloxtoc,1020,374,805,124,211
+17,Morelos,004,Ayala,0014,Moyotepec,1108,436,996,258,305
+17,Morelos,004,Ayala,0015,Niños Héroes,158,47,141,23,33
+17,Morelos,004,Ayala,0016,Olintepec,414,191,359,85,100
+17,Morelos,004,Ayala,0017,Palo Blanco,139,18,130,17,13
+17,Morelos,004,Ayala,0019,Rafael Merino (San Antonio),275,77,265,85,61
+17,Morelos,004,Ayala,0021,La Sábana,16,3,17,2,5
+17,Morelos,004,Ayala,0022,El Salitre,347,106,315,23,35
+17,Morelos,004,Ayala,0023,San Juan Ahuehueyo,710,328,570,157,183
+17,Morelos,004,Ayala,0024,San Vicente de Juárez (Las Piedras),434,94,363,27,64
+17,Morelos,004,Ayala,0025,Tecomalco,132,5,116,34,3
+17,Morelos,004,Ayala,0026,Tenextepango,2298,1069,2005,928,718
+17,Morelos,004,Ayala,0027,Tlayecac,806,361,708,171,227
+17,Morelos,004,Ayala,0028,El Vergel,268,110,149,65,30
+17,Morelos,004,Ayala,0029,Fraccionamiento el Venadito,37,27,37,20,19
+17,Morelos,004,Ayala,0030,Parque Industrial Cuautla,1,0,1,0,0
+17,Morelos,004,Ayala,0031,Fraccionamiento Huertas de Cuautla,430,240,414,122,175
+17,Morelos,004,Ayala,0032,Fraccionamiento Prados del Sol,26,19,26,9,15
+17,Morelos,004,Ayala,0033,Fraccionamiento Paraíso Tlahuica,70,53,64,35,42
+17,Morelos,004,Ayala,0034,Fraccionamiento Citlalin,20,14,20,9,13
+17,Morelos,004,Ayala,0035,Fraccionamiento Isla de Cuautla,43,26,43,16,25
+17,Morelos,004,Ayala,0037,Rancho la Barranquilla,*,*,*,*,*
+17,Morelos,004,Ayala,0038,Buena Vista,111,14,96,14,12
+17,Morelos,004,Ayala,0040,Rancho Rosa y Manuel (Casa Blanca),*,*,*,*,*
+17,Morelos,004,Ayala,0042,Constancio Farfán (La Pascuala),496,133,441,116,59
+17,Morelos,004,Ayala,0043,Colonia la Libertad,35,4,33,6,5
+17,Morelos,004,Ayala,0049,Unidad Habitacional Mariano Matamoros,325,140,296,89,112
+17,Morelos,004,Ayala,0050,Campo Agua de los Patos,*,*,*,*,*
+17,Morelos,004,Ayala,0053,Ampliación Campo el Higuerillo,9,4,7,2,2
+17,Morelos,004,Ayala,0054,Colonia Ejidal Rafael Merino,156,58,139,35,37
+17,Morelos,004,Ayala,0055,Ejido Nueva Olintepec,85,22,78,7,13
+17,Morelos,004,Ayala,0056,Unidad Piscícola de Chinameca,6,0,7,3,1
+17,Morelos,004,Ayala,0057,Unidad Piscícola el Vergel,2,1,3,1,0
+17,Morelos,004,Ayala,0058,El Almacén,48,15,44,19,21
+17,Morelos,004,Ayala,0064,Campo Nuevo,*,*,*,*,*
+17,Morelos,004,Ayala,0065,Granja las Cebollas,*,*,*,*,*
+17,Morelos,004,Ayala,0066,Colonia las Lumbreras,62,16,58,14,7
+17,Morelos,004,Ayala,0069,Rancho el Pañuelo,23,0,19,2,1
+17,Morelos,004,Ayala,0070,Unidad Habitacional 10 de Abril,462,267,438,152,204
+17,Morelos,004,Ayala,0073,Colonia las Arboledas,497,125,456,59,76
+17,Morelos,004,Ayala,0075,Campo la Escopeta,124,49,114,22,33
+17,Morelos,004,Ayala,0076,Granja las Codornices (La Fábrica),*,*,*,*,*
+17,Morelos,004,Ayala,0077,Rancho Chicapa (Teteltitla),*,*,*,*,*
+17,Morelos,004,Ayala,0078,Granja la Esperanza,*,*,*,*,*
+17,Morelos,004,Ayala,0079,El Jagüey,*,*,*,*,*
+17,Morelos,004,Ayala,0080,Colonia General Emiliano Zapata (El Chivatero),147,15,118,11,18
+17,Morelos,004,Ayala,0082,La Doncella,31,11,28,5,10
+17,Morelos,004,Ayala,0083,La Joya,128,25,126,20,21
+17,Morelos,004,Ayala,0084,Loma Bonita,153,13,136,10,10
+17,Morelos,004,Ayala,0087,Campo Palomar Chico,65,13,62,12,11
+17,Morelos,004,Ayala,0088,Campo Amate Amarillo,6,2,6,2,1
+17,Morelos,004,Ayala,0089,Campo Bustamante,*,*,*,*,*
+17,Morelos,004,Ayala,0091,Campo el Chivatero,1,0,2,0,0
+17,Morelos,004,Ayala,0093,Campo el Salto,*,*,*,*,*
+17,Morelos,004,Ayala,0094,Campo Iturbide,*,*,*,*,*
+17,Morelos,004,Ayala,0095,Campo la Soledad,66,17,61,13,9
+17,Morelos,004,Ayala,0097,Campo las Cruces,*,*,*,*,*
+17,Morelos,004,Ayala,0099,Campo los Pilares,9,2,9,2,1
+17,Morelos,004,Ayala,0103,Fraccionamiento las Llaves,464,240,453,153,183
+17,Morelos,004,Ayala,0106,Ampliación Chinameca,1,0,4,0,0
+17,Morelos,004,Ayala,0108,La Joya Escondida,*,*,*,*,*
+17,Morelos,004,Ayala,0109,El Pozo,4,2,4,1,1
+17,Morelos,004,Ayala,0110,Rancho Agua Limpia,4,1,4,1,4
+17,Morelos,004,Ayala,0114,Rancho el Amate,*,*,*,*,*
+17,Morelos,004,Ayala,0116,Rancho la Herradura,*,*,*,*,*
+17,Morelos,004,Ayala,0120,Rancho los Aviña,*,*,*,*,*
+17,Morelos,004,Ayala,0121,Rancho Santana 1,3,0,3,2,0
+17,Morelos,004,Ayala,0124,El Sifón de la Cuera,11,0,11,3,0
+17,Morelos,004,Ayala,0126,Anenecuilco,*,*,*,*,*
+17,Morelos,004,Ayala,0129,Colonia Segunda Ampliación Moyotepec,19,6,18,2,2
+17,Morelos,004,Ayala,0130,Puente Blanco,5,2,4,0,1
+17,Morelos,004,Ayala,0132,Agua Salada,32,0,30,1,1
+17,Morelos,004,Ayala,0133,Ampliación las Flores,20,3,19,3,1
+17,Morelos,004,Ayala,0134,Ampliación Rafael Merino,8,1,8,1,1
+17,Morelos,004,Ayala,0137,Campo Huizachera 2,10,2,10,1,2
+17,Morelos,004,Ayala,0139,El Crucero de Chinameca,18,6,17,4,4
+17,Morelos,004,Ayala,0140,El Jagüey,*,*,*,*,*
+17,Morelos,004,Ayala,0141,Las Lajas,*,*,*,*,*
+17,Morelos,004,Ayala,0142,El Mirador,224,115,212,64,92
+17,Morelos,004,Ayala,0143,Rancho Epifanio Sotelo,*,*,*,*,*
+17,Morelos,004,Ayala,0144,Rancho Palomar Grande,8,0,6,1,0
+17,Morelos,004,Ayala,0146,Rincón de los Sauces,21,2,21,3,4
+17,Morelos,004,Ayala,0147,2da. Sección Benito Juárez,3,0,3,2,0
+17,Morelos,004,Ayala,0149,Anenecuilco,43,7,32,10,3
+17,Morelos,004,Ayala,0150,Campo los Pedros,2,0,2,0,0
+17,Morelos,004,Ayala,0152,Colonia Leopoldo Heredia,38,7,37,7,6
+17,Morelos,004,Ayala,0153,Rancho el Naranjo (La Escondida),*,*,*,*,*
+17,Morelos,004,Ayala,0154,Ampliación Tenextepango (La Parcela),59,30,57,18,21
+17,Morelos,004,Ayala,0155,El Axocoche,*,*,*,*,*
+17,Morelos,004,Ayala,0156,El Cerro Olinche,25,0,19,4,2
+17,Morelos,004,Ayala,0157,Colonia Ampliación Cruz Verde,16,4,17,3,4
+17,Morelos,004,Ayala,0158,Colonia Ampliación Norte,*,*,*,*,*
+17,Morelos,004,Ayala,0159,Ejido Anenecuilco,*,*,*,*,*
+17,Morelos,004,Ayala,0160,Valle de Morelos,143,7,118,48,3
+17,Morelos,004,Ayala,0162,Moyotepec,12,2,10,6,1
+17,Morelos,004,Ayala,0163,Parada a Huexca,7,0,7,1,0
+17,Morelos,004,Ayala,0164,Colonia las Flores,13,0,13,1,1
+17,Morelos,004,Ayala,0166,Campo Puente de Fierro,6,3,6,1,4
+17,Morelos,004,Ayala,0167,Colonia las Joyas,*,*,*,*,*
+17,Morelos,004,Ayala,0168,Colonia Pablo Torres Burgos,3,1,3,0,2
+17,Morelos,004,Ayala,0169,El Barreal,*,*,*,*,*
+17,Morelos,004,Ayala,0170,Rancho Chalpa,*,*,*,*,*
+17,Morelos,004,Ayala,0171,Jaloxtoc,30,1,27,4,5
+17,Morelos,004,Ayala,0172,Fraccionamiento Villa Dorada,2,0,3,1,1
+17,Morelos,004,Ayala,0173,Huertos el Paraíso,*,*,*,*,*
+17,Morelos,004,Ayala,0175,Campo los Bandidos,*,*,*,*,*
+17,Morelos,004,Ayala,0176,Campo la Canoa,*,*,*,*,*
+17,Morelos,004,Ayala,0177,Campo Santa Rosa,10,0,5,0,1
+17,Morelos,004,Ayala,0178,Fraccionamiento Rinconada del Valle,14,0,14,2,1
+17,Morelos,004,Ayala,0180,Rancho San José,*,*,*,*,*
+17,Morelos,004,Ayala,0181,San Rafael,*,*,*,*,*
+17,Morelos,004,Ayala,0182,Residencial la Cantera,60,50,60,35,52
+17,Morelos,004,Ayala,0183,Residencial Villa de los Arcos,41,28,40,22,26
+17,Morelos,004,Ayala,0184,Residencial los Sauces,150,87,145,62,80
+17,Morelos,004,Ayala,0186,Ampliación la Cucaracha,8,1,8,1,2
+17,Morelos,004,Ayala,0188,Campo el Brasil,5,1,3,3,3
+17,Morelos,004,Ayala,0189,Campo Hidalgo,*,*,*,*,*
+17,Morelos,004,Ayala,0190,Campo Palo Blanco,*,*,*,*,*
+17,Morelos,004,Ayala,0194,Fraccionamiento la Paz,37,16,36,16,10
+17,Morelos,004,Ayala,0196,Valle del Pedregal [Fraccionamiento],321,172,318,129,176
+17,Morelos,004,Ayala,0197,Colonia Avilés,*,*,*,*,*
+17,Morelos,004,Ayala,0198,Vida y Sol,8,2,8,0,1
+17,Morelos,004,Ayala,0199,Linda Vista,3,0,21,0,1
+17,Morelos,004,Ayala,9998,Localidades de una vivienda,17,4,18,2,3
+17,Morelos,004,Ayala,9999,Localidades de dos viviendas,29,5,27,1,3
+17,Morelos,005,Coatlán del Río,0000,Total del Municipio,2968,837,2238,809,439
+17,Morelos,005,Coatlán del Río,0001,Coatlán del Río,616,316,488,245,190
+17,Morelos,005,Coatlán del Río,0002,Apancingo,153,51,103,14,23
+17,Morelos,005,Coatlán del Río,0003,Benito Juárez,102,16,76,4,6
+17,Morelos,005,Coatlán del Río,0004,Buenavista de Aldama,77,11,37,10,4
+17,Morelos,005,Coatlán del Río,0005,Cocoyotla,418,89,331,159,54
+17,Morelos,005,Coatlán del Río,0006,Colonia Cuauhtémoc,158,26,124,87,16
+17,Morelos,005,Coatlán del Río,0007,Colonia Morelos,182,18,108,22,10
+17,Morelos,005,Coatlán del Río,0008,Chavarría,328,70,246,56,38
+17,Morelos,005,Coatlán del Río,0009,Michapa,340,137,243,53,49
+17,Morelos,005,Coatlán del Río,0010,Tilancingo,255,36,205,64,19
+17,Morelos,005,Coatlán del Río,0011,Cuernavaquita,14,2,12,1,1
+17,Morelos,005,Coatlán del Río,0012,El Axixintle (El Treinta y Cinco),67,11,53,14,2
+17,Morelos,005,Coatlán del Río,0014,El Canelillo,50,4,46,33,3
+17,Morelos,005,Coatlán del Río,0018,San Antonio,95,8,79,17,4
+17,Morelos,005,Coatlán del Río,0019,Tezoquipa,36,18,34,22,9
+17,Morelos,005,Coatlán del Río,0020,Colonia San José,18,1,9,0,1
+17,Morelos,005,Coatlán del Río,0023,Puente el Arenal (La Joya),44,15,36,3,8
+17,Morelos,005,Coatlán del Río,0027,El Amate,15,8,8,5,2
+17,Morelos,005,Coatlán del Río,0029,CEFERESO Número 16 CPS Femenil Morelos,*,*,*,*,*
+17,Morelos,005,Coatlán del Río,9998,Localidades de una vivienda,*,*,*,*,*
+17,Morelos,006,Cuautla,0000,Total del Municipio,52024,30286,47584,19259,20584
+17,Morelos,006,Cuautla,0001,Cuautla,44072,26968,40283,17313,18410
+17,Morelos,006,Cuautla,0003,Calderón,289,142,263,91,70
+17,Morelos,006,Cuautla,0014,Ex-Hacienda el Hospital,664,299,588,199,202
+17,Morelos,006,Cuautla,0021,Puxtla,524,253,464,143,138
+17,Morelos,006,Cuautla,0030,Empleado Municipal,198,95,186,54,49
+17,Morelos,006,Cuautla,0032,Peña Flores (Palo Verde),1161,601,1050,353,373
+17,Morelos,006,Cuautla,0040,Narciso Mendoza,523,254,478,142,145
+17,Morelos,006,Cuautla,0043,Colonia los Cortés (Segundo Campo de Puxtla),89,29,79,22,20
+17,Morelos,006,Cuautla,0044,Rancho Guadalupe,*,*,*,*,*
+17,Morelos,006,Cuautla,0047,3 de Mayo,311,67,281,36,55
+17,Morelos,006,Cuautla,0051,19 de Febrero de 1812,308,96,289,42,49
+17,Morelos,006,Cuautla,0056,Colonia Polvorín 18 de Septiembre 94,65,40,64,16,20
+17,Morelos,006,Cuautla,0059,Reforma,242,58,223,35,55
+17,Morelos,006,Cuautla,0062,Tinajas,*,*,*,*,*
+17,Morelos,006,Cuautla,0064,Héroe de Nacozari,111,66,99,34,46
+17,Morelos,006,Cuautla,0065,Colonia el Sifón,23,11,23,5,5
+17,Morelos,006,Cuautla,0073,Los Cerritos,58,25,57,14,19
+17,Morelos,006,Cuautla,0077,Jicamán (Colonia el Mirador),125,62,114,27,38
+17,Morelos,006,Cuautla,0078,Tierra Larga,717,372,688,210,307
+17,Morelos,006,Cuautla,0083,Colonia 12 de Diciembre,154,51,133,19,35
+17,Morelos,006,Cuautla,0092,Santa Cruz (Campo Santa Cruz),18,8,16,5,5
+17,Morelos,006,Cuautla,0096,Ampliación Santa Cruz,37,21,37,16,14
+17,Morelos,006,Cuautla,0098,Ampliación Reforma,30,13,25,1,9
+17,Morelos,006,Cuautla,0099,La Esperanza,79,19,72,19,23
+17,Morelos,006,Cuautla,0100,La Loma,*,*,*,*,*
+17,Morelos,006,Cuautla,0106,Las Vegas,50,5,48,12,2
+17,Morelos,006,Cuautla,0107,Colonia Martínez Peña (Los Dos Puentes),50,4,50,14,9
+17,Morelos,006,Cuautla,0108,Rancho Santa Teresa,*,*,*,*,*
+17,Morelos,006,Cuautla,0109,Campo Partidor Zumpango,94,22,82,20,16
+17,Morelos,006,Cuautla,0110,Ampliación Biznaga Uno,177,38,166,30,29
+17,Morelos,006,Cuautla,0111,Ampliación Narciso Mendoza,317,141,288,87,101
+17,Morelos,006,Cuautla,0113,Campo Ahuehuepan,28,2,27,6,5
+17,Morelos,006,Cuautla,0114,Campo Carrizal,3,0,2,0,1
+17,Morelos,006,Cuautla,0115,Campo la Calavera,48,18,44,13,14
+17,Morelos,006,Cuautla,0118,Las Granjas,4,1,3,1,1
+17,Morelos,006,Cuautla,0120,Rancho el Paraíso,8,2,8,0,1
+17,Morelos,006,Cuautla,0121,Rancho el Vivero,22,5,21,4,6
+17,Morelos,006,Cuautla,0122,Ampliación Hermenegildo Galeana,16,8,14,2,5
+17,Morelos,006,Cuautla,0123,Campo el Fresnal,59,12,57,14,7
+17,Morelos,006,Cuautla,0124,El Polvorín,111,26,103,23,22
+17,Morelos,006,Cuautla,0128,Ampliación Francisco I. Madero,9,1,9,2,2
+17,Morelos,006,Cuautla,0129,El Embocadero,*,*,*,*,*
+17,Morelos,006,Cuautla,0130,Colonia Ampliación 10 de Abril,159,130,155,46,67
+17,Morelos,006,Cuautla,0133,Colonia el Paraíso,97,33,89,26,20
+17,Morelos,006,Cuautla,0134,Ampliación Gabriel Tepepa,162,50,134,5,25
+17,Morelos,006,Cuautla,0135,Ampliación Galeana Sur,44,19,40,13,6
+17,Morelos,006,Cuautla,0136,Ampliación Iztaccíhuatl,46,15,42,7,11
+17,Morelos,006,Cuautla,0137,Ampliación Iztaccíhuatl,94,17,98,14,6
+17,Morelos,006,Cuautla,0139,Campo Nuevo,45,9,44,8,11
+17,Morelos,006,Cuautla,0140,Campo Nuevo los Tepetates,123,36,117,14,24
+17,Morelos,006,Cuautla,0141,Campo Santa Rosa,18,3,16,2,2
+17,Morelos,006,Cuautla,0142,Casasano,6,3,6,4,3
+17,Morelos,006,Cuautla,0143,Colonia Ampliación Tepeyac,167,70,152,37,46
+17,Morelos,006,Cuautla,0145,Eusebio Jáuregui (La Angostura),107,31,103,19,23
+17,Morelos,006,Cuautla,0147,Tierra y Libertad,24,9,22,3,7
+17,Morelos,006,Cuautla,0148,Campo San Pedro,*,*,*,*,*
+17,Morelos,006,Cuautla,0149,Santa Isabel,32,5,28,12,4
+17,Morelos,006,Cuautla,0150,Plan de Ayala,3,0,3,0,1
+17,Morelos,006,Cuautla,0151,Colonia Campestre,26,15,25,12,13
+17,Morelos,006,Cuautla,0152,Campo el Guaje,46,2,46,7,4
+17,Morelos,006,Cuautla,0153,Campo la Colmena,*,*,*,*,*
+17,Morelos,006,Cuautla,0154,Campo las Tinajas,*,*,*,*,*
+17,Morelos,006,Cuautla,0156,Potrero Ejidal las Lomas,14,2,14,1,2
+17,Morelos,006,Cuautla,0157,Niños Héroes,8,0,7,0,0
+17,Morelos,006,Cuautla,9998,Localidades de una vivienda,5,1,5,2,0
+17,Morelos,006,Cuautla,9999,Localidades de dos viviendas,4,1,4,3,1
+17,Morelos,007,Cuernavaca,0000,Total del Municipio,114232,83635,106004,61093,62412
+17,Morelos,007,Cuernavaca,0001,Cuernavaca,103612,76815,95992,56449,57462
+17,Morelos,007,Cuernavaca,0044,Buenavista del Monte,296,76,217,50,31
+17,Morelos,007,Cuernavaca,0051,El Cebadal,30,3,14,2,2
+17,Morelos,007,Cuernavaca,0052,Tlachichilpa,8,0,4,0,1
+17,Morelos,007,Cuernavaca,0053,El Fresno,*,*,*,*,*
+17,Morelos,007,Cuernavaca,0062,La Carpa,16,2,15,1,3
+17,Morelos,007,Cuernavaca,0067,El Iterero,*,*,*,*,*
+17,Morelos,007,Cuernavaca,0071,El Alambrado,4,2,4,0,2
+17,Morelos,007,Cuernavaca,0074,Colonia Rodolfo López de Nava (Los Naranjos),140,88,131,75,58
+17,Morelos,007,Cuernavaca,0075,Villa Santiago,921,526,844,446,319
+17,Morelos,007,Cuernavaca,0080,Loma de los Amates (Loma de la Lagunilla),227,43,213,61,38
+17,Morelos,007,Cuernavaca,0081,Loma del Cerrado,3,0,4,0,0
+17,Morelos,007,Cuernavaca,0083,Tepeite,*,*,*,*,*
+17,Morelos,007,Cuernavaca,0085,Rancho los Ciruelos,5,1,5,0,0
+17,Morelos,007,Cuernavaca,0086,La Unión,424,159,403,91,75
+17,Morelos,007,Cuernavaca,0087,Las Minas (Las Minas del Tecolote),22,14,22,13,5
+17,Morelos,007,Cuernavaca,0089,Ampliación la Cruz (Ampliación los Ramos),53,18,51,12,18
+17,Morelos,007,Cuernavaca,0090,El Bosque,*,*,*,*,*
+17,Morelos,007,Cuernavaca,0092,El Cerrito (Cuautenco),34,2,32,1,5
+17,Morelos,007,Cuernavaca,0094,Fraccionamiento Universo,689,424,648,277,230
+17,Morelos,007,Cuernavaca,0096,Colonia Paraíso,157,95,149,64,71
+17,Morelos,007,Cuernavaca,0098,Loma del Cerro,*,*,*,*,*
+17,Morelos,007,Cuernavaca,0100,Lomas de Ahuatepec,504,349,474,248,277
+17,Morelos,007,Cuernavaca,0101,Los Potreritos,18,7,16,5,4
+17,Morelos,007,Cuernavaca,0102,Colonia los Cerritos,437,267,409,175,146
+17,Morelos,007,Cuernavaca,0103,Tlaltecuáhuitl,64,38,60,27,24
+17,Morelos,007,Cuernavaca,0104,Colonia San Miguel Apatlaco,100,40,92,28,21
+17,Morelos,007,Cuernavaca,0105,Colonia Santa Elena de la Cruz,142,66,121,27,32
+17,Morelos,007,Cuernavaca,0106,La Cañada,194,141,190,112,110
+17,Morelos,007,Cuernavaca,0107,Cerritos de García,255,130,248,104,79
+17,Morelos,007,Cuernavaca,0108,Colonia Alarcón,167,98,158,61,56
+17,Morelos,007,Cuernavaca,0109,Colonia el Copalito,136,106,130,68,71
+17,Morelos,007,Cuernavaca,0111,Colonia San Antonio del Jagüey,54,40,52,31,33
+17,Morelos,007,Cuernavaca,0112,Jardines del Edén,73,17,69,8,10
+17,Morelos,007,Cuernavaca,0114,Colonia Cuauhtémoc,55,30,53,19,20
+17,Morelos,007,Cuernavaca,0115,Los Limones,70,40,64,37,20
+17,Morelos,007,Cuernavaca,0118,Colonia Rancho Alegre (Kilómetro 7.5),118,82,112,59,59
+17,Morelos,007,Cuernavaca,0119,Santa María,53,22,45,14,10
+17,Morelos,007,Cuernavaca,0120,Loma del Tzompantle,51,34,47,18,27
+17,Morelos,007,Cuernavaca,0121,Campo el Alambrado,8,3,5,0,1
+17,Morelos,007,Cuernavaca,0122,Colonia Jardines de Zoquipa,43,35,40,22,22
+17,Morelos,007,Cuernavaca,0123,Colonia Milpillas,378,221,361,117,119
+17,Morelos,007,Cuernavaca,0125,Fraccionamiento Lomas de Ahuatlán,3285,2891,3177,1950,2507
+17,Morelos,007,Cuernavaca,0126,Lomas de Chamilpa,6,4,6,2,3
+17,Morelos,007,Cuernavaca,0127,La Cañada de Chalchihuapan,6,4,7,4,3
+17,Morelos,007,Cuernavaca,0128,Entronque de Huitzilac,10,6,10,4,5
+17,Morelos,007,Cuernavaca,0129,Nueva Jerusalén,76,39,69,14,22
+17,Morelos,007,Cuernavaca,0131,Colonia el Mirador,3,2,3,2,1
+17,Morelos,007,Cuernavaca,0133,Colonia las Flores,158,70,152,51,43
+17,Morelos,007,Cuernavaca,0134,Colonia Lomas de la Herradura,32,22,31,9,19
+17,Morelos,007,Cuernavaca,0135,Colonia los Papayos,218,150,210,95,95
+17,Morelos,007,Cuernavaca,0136,Colonia Nueva Santa María,148,68,138,51,37
+17,Morelos,007,Cuernavaca,0137,Colonia Ocotitla,32,17,29,9,6
+17,Morelos,007,Cuernavaca,0138,Colonia Tenochtitlan,107,21,101,11,16
+17,Morelos,007,Cuernavaca,0139,Colonia Unidad Deportiva,340,181,333,96,103
+17,Morelos,007,Cuernavaca,0140,Loma de Popotla,6,1,5,1,0
+17,Morelos,007,Cuernavaca,0142,Loma del Tilcuate,*,*,*,*,*
+17,Morelos,007,Cuernavaca,0143,Los Ailes,25,10,24,3,4
+17,Morelos,007,Cuernavaca,0144,Colonia Bosques de la Florida,68,32,64,17,28
+17,Morelos,007,Cuernavaca,0145,Colonia México Lindo,55,28,54,15,21
+17,Morelos,007,Cuernavaca,0146,Lomas Verdes de Ahuatepec,87,54,86,33,37
+17,Morelos,007,Cuernavaca,0147,El Paraíso,4,1,3,3,1
+17,Morelos,007,Cuernavaca,9998,Localidades de una vivienda,4,0,4,1,0
+17,Morelos,007,Cuernavaca,9999,Localidades de dos viviendas,1,0,4,0,0
+17,Morelos,008,Emiliano Zapata,0000,Total del Municipio,30963,19106,28893,13926,12737
+17,Morelos,008,Emiliano Zapata,0001,Emiliano Zapata,17887,10158,16625,8096,6519
+17,Morelos,008,Emiliano Zapata,0002,Tepetzingo,644,363,540,192,139
+17,Morelos,008,Emiliano Zapata,0003,Tetecalita,1170,752,1054,245,266
+17,Morelos,008,Emiliano Zapata,0004,Tezoyuca,1665,980,1540,666,669
+17,Morelos,008,Emiliano Zapata,0005,Tres de Mayo,6341,4773,5985,3297,3558
+17,Morelos,008,Emiliano Zapata,0020,Campo el Capulín (La Presa),*,*,*,*,*
+17,Morelos,008,Emiliano Zapata,0031,Palo Escrito (Colonia Benito Juárez),222,191,215,117,154
+17,Morelos,008,Emiliano Zapata,0035,Campo Chalma,16,13,17,12,12
+17,Morelos,008,Emiliano Zapata,0036,Campo el Órgano,100,40,89,17,17
+17,Morelos,008,Emiliano Zapata,0037,1ra. Sección Colonia Villa Morelos,112,68,106,45,50
+17,Morelos,008,Emiliano Zapata,0040,Ejido la Bota,*,*,*,*,*
+17,Morelos,008,Emiliano Zapata,0042,Loma Bonita (Las Quintas),*,*,*,*,*
+17,Morelos,008,Emiliano Zapata,0045,Puente Colorado (Campo la Palma),4,2,5,0,2
+17,Morelos,008,Emiliano Zapata,0046,Rancho la Mezquitera,*,*,*,*,*
+17,Morelos,008,Emiliano Zapata,0047,Rancho los Corceles,*,*,*,*,*
+17,Morelos,008,Emiliano Zapata,0048,La Soledad (El Castillo),*,*,*,*,*
+17,Morelos,008,Emiliano Zapata,0050,Crucero Tezoyuca,2221,1512,2165,1031,1154
+17,Morelos,008,Emiliano Zapata,0052,Paraje Palo Escrito,3,1,3,0,1
+17,Morelos,008,Emiliano Zapata,0054,San José de las Cumbres,31,14,30,11,10
+17,Morelos,008,Emiliano Zapata,0055,Loma Bonita,27,11,24,4,5
+17,Morelos,008,Emiliano Zapata,0056,Campo el Tomatal,6,2,5,4,2
+17,Morelos,008,Emiliano Zapata,0057,Colonia Modesto Rangel,96,21,85,21,15
+17,Morelos,008,Emiliano Zapata,0058,Campo la Ventana,7,1,7,2,0
+17,Morelos,008,Emiliano Zapata,0060,Colonia el Guante,181,38,171,54,34
+17,Morelos,008,Emiliano Zapata,0062,Colonia Ampliación Cuauhtémoc,23,11,21,4,0
+17,Morelos,008,Emiliano Zapata,0063,Colonia Guadalupe de las Arenas,48,20,45,14,13
+17,Morelos,008,Emiliano Zapata,0065,Campo San Felipe,*,*,*,*,*
+17,Morelos,008,Emiliano Zapata,0067,Fraccionamiento Club de Golf Paraíso,136,128,133,89,112
+17,Morelos,008,Emiliano Zapata,0069,Tetecalita,11,1,9,2,0
+17,Morelos,008,Emiliano Zapata,0071,La Chinita,*,*,*,*,*
+17,Morelos,008,Emiliano Zapata,0072,Ojo de Agua,5,1,12,1,2
+17,Morelos,008,Emiliano Zapata,9998,Localidades de una vivienda,5,5,5,2,2
+17,Morelos,008,Emiliano Zapata,9999,Localidades de dos viviendas,2,0,2,0,1
+17,Morelos,009,Huitzilac,0000,Total del Municipio,6604,3036,5932,2049,2042
+17,Morelos,009,Huitzilac,0001,Huitzilac,1354,597,1161,335,370
+17,Morelos,009,Huitzilac,0002,Fraccionamiento Atlixtac,35,19,34,12,16
+17,Morelos,009,Huitzilac,0003,Coajomulco,638,117,576,63,85
+17,Morelos,009,Huitzilac,0004,El Crucero,12,10,11,4,5
+17,Morelos,009,Huitzilac,0005,Fierro del Toro,50,1,43,29,2
+17,Morelos,009,Huitzilac,0006,Guayacahuala,22,17,19,10,15
+17,Morelos,009,Huitzilac,0007,Huertas de San Pedro,83,60,81,33,46
+17,Morelos,009,Huitzilac,0008,Kilómetro 55,25,19,24,6,12
+17,Morelos,009,Huitzilac,0009,María Candelaria,56,44,55,32,35
+17,Morelos,009,Huitzilac,0010,Monte Bello,139,94,131,60,67
+17,Morelos,009,Huitzilac,0012,Monte Verde,12,9,13,4,7
+17,Morelos,009,Huitzilac,0013,Los Pinos (Cuexcontitla),52,22,51,13,19
+17,Morelos,009,Huitzilac,0014,Real Montecassino,292,231,280,149,179
+17,Morelos,009,Huitzilac,0015,Rincón del Bosque (La Palma),55,37,51,20,21
+17,Morelos,009,Huitzilac,0016,San José de la Montaña,51,32,44,20,25
+17,Morelos,009,Huitzilac,0017,Tres Marías,1894,820,1674,619,529
+17,Morelos,009,Huitzilac,0019,Fraccionamiento Sierra Encantada,186,114,177,77,77
+17,Morelos,009,Huitzilac,0020,La Floresta (Ajahuayo),28,22,25,11,15
+17,Morelos,009,Huitzilac,0021,El Trece,22,14,21,10,11
+17,Morelos,009,Huitzilac,0023,Kilómetro 47 (Entrada al Capulín),24,11,19,15,1
+17,Morelos,009,Huitzilac,0024,Cruz Verde (Cuatatapaxco),19,9,19,7,7
+17,Morelos,009,Huitzilac,0026,Kilómetro 2.050,28,15,25,9,11
+17,Morelos,009,Huitzilac,0027,Tezontlalpa,82,65,74,34,46
+17,Morelos,009,Huitzilac,0029,El Mirador de Ayotzingo,*,*,*,*,*
+17,Morelos,009,Huitzilac,0031,Kilómetro 54.8 (Columpios de Axoxoco),12,10,11,2,3
+17,Morelos,009,Huitzilac,0032,Oca-Lele (Rancho San Francisco),3,0,2,0,0
+17,Morelos,009,Huitzilac,0036,Saint Moritz,27,25,25,18,18
+17,Morelos,009,Huitzilac,0038,Los Olivos,82,33,74,23,23
+17,Morelos,009,Huitzilac,0039,Valle de los Soles (Koapa),16,11,17,7,7
+17,Morelos,009,Huitzilac,0041,Tepeca,21,4,20,2,1
+17,Morelos,009,Huitzilac,0046,Kilómetro 49,45,8,47,21,8
+17,Morelos,009,Huitzilac,0050,Lagunita,20,4,18,3,4
+17,Morelos,009,Huitzilac,0052,Monte Rubí (Los Pinos del 62),62,41,62,24,25
+17,Morelos,009,Huitzilac,0062,Monte Casino (Piamonte y Ensueño),32,29,31,19,22
+17,Morelos,009,Huitzilac,0066,Monte Cristo,46,31,43,20,31
+17,Morelos,009,Huitzilac,0071,Vivero Forestal,*,*,*,*,*
+17,Morelos,009,Huitzilac,0073,La Aguacatera,9,6,6,6,4
+17,Morelos,009,Huitzilac,0074,Ajahuacostla,3,2,3,0,1
+17,Morelos,009,Huitzilac,0075,Ajahuayo,46,33,44,13,29
+17,Morelos,009,Huitzilac,0076,Alcanfores,17,7,15,6,6
+17,Morelos,009,Huitzilac,0077,Barrio de la Cruz,32,17,25,8,11
+17,Morelos,009,Huitzilac,0078,Barrio Gualupita,42,26,41,21,16
+17,Morelos,009,Huitzilac,0081,Rancho mi Reyna,23,16,20,13,4
+17,Morelos,009,Huitzilac,0082,Kilómetro 61,16,11,13,3,5
+17,Morelos,009,Huitzilac,0083,La Palma (Kilómetro 60.8),24,16,24,10,15
+17,Morelos,009,Huitzilac,0084,Paraje Tezontle,26,10,24,12,8
+17,Morelos,009,Huitzilac,0085,Rancho Curiel,3,2,3,2,2
+17,Morelos,009,Huitzilac,0086,Rancho los Charcos,8,5,7,2,2
+17,Morelos,009,Huitzilac,0087,San Martín Ajahuayo (El Reposo),38,20,34,9,9
+17,Morelos,009,Huitzilac,0088,Teochalco (Pueblo Nuevo),53,18,48,11,12
+17,Morelos,009,Huitzilac,0089,Tepextitla (El Cerrito),9,1,4,2,1
+17,Morelos,009,Huitzilac,0090,Tetecuintla,59,34,46,17,23
+17,Morelos,009,Huitzilac,0092,Tlacotepec,57,11,54,17,8
+17,Morelos,009,Huitzilac,0093,Villa Lugano,10,7,9,5,5
+17,Morelos,009,Huitzilac,0094,Villa Suiza (Coto del Marqués),39,24,37,11,19
+17,Morelos,009,Huitzilac,0095,Zacapexco,39,13,34,9,12
+17,Morelos,009,Huitzilac,0096,Barrio San José,53,23,48,12,14
+17,Morelos,009,Huitzilac,0097,Los Hongos,32,21,26,15,2
+17,Morelos,009,Huitzilac,0098,Barrio Tezoyo (El Cuartel),52,28,48,20,12
+17,Morelos,009,Huitzilac,0099,Colonia Antonio Segura,31,6,26,5,6
+17,Morelos,009,Huitzilac,0100,El Puente Blanco,20,7,14,6,5
+17,Morelos,009,Huitzilac,0101,San Rafael (Tepetlixpa),82,26,81,26,22
+17,Morelos,009,Huitzilac,0102,Tecaltitla,5,1,4,1,0
+17,Morelos,009,Huitzilac,0103,Tepetzala,22,6,20,5,4
+17,Morelos,009,Huitzilac,0105,Huayatitla (Ampliación San Bartolo),108,34,105,32,26
+17,Morelos,009,Huitzilac,0106,Camino a la Mina,60,8,56,18,6
+17,Morelos,009,Huitzilac,0107,Cuacometla,40,17,36,15,7
+17,Morelos,009,Huitzilac,0108,Paraje Cuexcontitla,8,1,7,3,1
+17,Morelos,009,Huitzilac,0109,Paraje Texahuapan,11,3,10,2,1
+17,Morelos,009,Huitzilac,9998,Localidades de una vivienda,*,*,*,*,*
+17,Morelos,009,Huitzilac,9999,Localidades de dos viviendas,*,*,*,*,*
+17,Morelos,010,Jantetelco,0000,Total del Municipio,5041,1935,4428,1252,1211
+17,Morelos,010,Jantetelco,0001,Jantetelco,1422,624,1213,427,418
+17,Morelos,010,Jantetelco,0002,Amayuca,1607,557,1424,287,367
+17,Morelos,010,Jantetelco,0003,Chalcatzingo,739,342,623,168,163
+17,Morelos,010,Jantetelco,0005,San Antonio la Esperanza,81,19,74,42,9
+17,Morelos,010,Jantetelco,0006,Tenango (Santa Ana),553,170,470,198,111
+17,Morelos,010,Jantetelco,0007,La Laja,*,*,*,*,*
+17,Morelos,010,Jantetelco,0013,Campo de las Rentas,31,9,30,1,6
+17,Morelos,010,Jantetelco,0016,Fraccionamiento Alondra,5,3,4,1,2
+17,Morelos,010,Jantetelco,0017,Colonia Mariano Matamoros (Puente Colorado),16,4,16,5,4
+17,Morelos,010,Jantetelco,0018,Azteca [Rancho],3,1,3,3,0
+17,Morelos,010,Jantetelco,0019,Nuevo Xochimilco,20,8,20,6,5
+17,Morelos,010,Jantetelco,0021,Peñón de los Baños,*,*,*,*,*
+17,Morelos,010,Jantetelco,0022,Santa Lucía,84,20,75,20,14
+17,Morelos,010,Jantetelco,0023,Serafín Marcial Bonilla,9,2,9,0,2
+17,Morelos,010,Jantetelco,0026,La Joya,23,9,23,10,8
+17,Morelos,010,Jantetelco,0027,El Ranchito (El Jagüey),3,0,3,0,0
+17,Morelos,010,Jantetelco,0028,Ruinas de Chalcatzingo,4,2,3,1,1
+17,Morelos,010,Jantetelco,0029,Amilcingo,18,4,17,0,2
+17,Morelos,010,Jantetelco,0031,La Normal,12,1,12,2,1
+17,Morelos,010,Jantetelco,0032,Campo Amatzongo,22,6,22,4,4
+17,Morelos,010,Jantetelco,0033,Campo Chalpa,37,12,33,9,9
+17,Morelos,010,Jantetelco,0034,Campo Cupatitlan,5,0,4,0,0
+17,Morelos,010,Jantetelco,0035,Campo de los Mezquites,11,0,8,2,1
+17,Morelos,010,Jantetelco,0036,Campo el Amate,8,4,8,2,3
+17,Morelos,010,Jantetelco,0037,Colonia los Amates,66,14,64,25,11
+17,Morelos,010,Jantetelco,0038,Caseta de Inspección Sanitaria,5,1,4,2,1
+17,Morelos,010,Jantetelco,0039,Chalpa (El Puente),6,3,6,2,2
+17,Morelos,010,Jantetelco,0041,Colonia Emiliano Zapata (La Granja),12,1,10,3,0
+17,Morelos,010,Jantetelco,0042,Colonia Manuel Alarcón,14,3,11,2,3
+17,Morelos,010,Jantetelco,0043,Rancho la Huerta,*,*,*,*,*
+17,Morelos,010,Jantetelco,0044,Los Bordos,10,6,9,2,1
+17,Morelos,010,Jantetelco,0045,El Granadillo,*,*,*,*,*
+17,Morelos,010,Jantetelco,0047,La Renta,87,48,85,10,32
+17,Morelos,010,Jantetelco,0048,San Martín,5,5,5,0,0
+17,Morelos,010,Jantetelco,0049,La Y,34,23,34,6,5
+17,Morelos,010,Jantetelco,0050,Zull Ayot,13,5,13,5,5
+17,Morelos,010,Jantetelco,0051,Colonia Cuatro Caminos,54,19,52,6,18
+17,Morelos,010,Jantetelco,0052,El Rastro,4,0,3,0,1
+17,Morelos,010,Jantetelco,0053,Corral Grande (Rancho el Coral),10,7,10,1,2
+17,Morelos,010,Jantetelco,0054,Huamuchilito,*,*,*,*,*
+17,Morelos,010,Jantetelco,0055,El Chumil,*,*,*,*,*
+17,Morelos,010,Jantetelco,0056,La Nopalera,0,0,20,0,0
+17,Morelos,010,Jantetelco,9998,Localidades de una vivienda,3,2,3,0,0
+17,Morelos,010,Jantetelco,9999,Localidades de dos viviendas,5,1,5,0,0
+17,Morelos,011,Jiutepec,0000,Total del Municipio,61292,41139,56715,28127,27896
+17,Morelos,011,Jiutepec,0001,Jiutepec,50100,34867,46461,24367,23997
+17,Morelos,011,Jiutepec,0004,Calera Chica,1721,892,1534,749,536
+17,Morelos,011,Jiutepec,0005,Cliserio Alanís (San Gaspar),738,397,676,203,232
+17,Morelos,011,Jiutepec,0009,Progreso,4621,2811,4302,1618,1843
+17,Morelos,011,Jiutepec,0028,Independencia,2100,1100,1862,666,603
+17,Morelos,011,Jiutepec,0034,Fraccionamiento Club de Golf Hacienda San Gaspar,80,69,80,46,53
+17,Morelos,011,Jiutepec,0037,Colonia el Naranjo,362,228,331,123,153
+17,Morelos,011,Jiutepec,0039,San Francisco del Rincón,43,18,38,5,11
+17,Morelos,011,Jiutepec,0051,Ampliación las Fuentes,240,145,225,77,93
+17,Morelos,011,Jiutepec,0054,Colonia Agua Fría,20,14,18,12,9
+17,Morelos,011,Jiutepec,0066,Rancho Paraíso,139,69,134,26,36
+17,Morelos,011,Jiutepec,0068,Colonia Josefa Ortiz de Domínguez,154,67,150,25,27
+17,Morelos,011,Jiutepec,0069,Colonia Loma Bonita,106,23,96,12,13
+17,Morelos,011,Jiutepec,0070,Colonia Toma de la Rueda,10,5,10,2,2
+17,Morelos,011,Jiutepec,0072,Colonia Luis Donaldo Colosio,32,9,25,1,4
+17,Morelos,011,Jiutepec,0074,Ampliación López Portillo,55,22,52,9,12
+17,Morelos,011,Jiutepec,0076,Ejido de Cazahuatal,290,162,272,75,106
+17,Morelos,011,Jiutepec,0077,Francisco Villa,45,16,44,8,8
+17,Morelos,011,Jiutepec,0078,Lomas de Chapultepec,49,16,45,6,9
+17,Morelos,011,Jiutepec,0079,Campo Morado,136,87,126,41,60
+17,Morelos,011,Jiutepec,0080,Fraccionamiento el Paraje (Kilómetro 14),8,5,8,3,5
+17,Morelos,011,Jiutepec,0083,Ampliación Chapultepec,32,10,27,4,5
+17,Morelos,011,Jiutepec,0084,Cerro de la Corona,53,17,50,8,7
+17,Morelos,011,Jiutepec,0085,Lomas del Texcal,116,63,110,31,55
+17,Morelos,011,Jiutepec,0086,La Quebradora,6,0,6,0,0
+17,Morelos,011,Jiutepec,0087,Valle Verde,36,27,33,10,17
+17,Morelos,012,Jojutla,0000,Total del Municipio,16836,9257,14962,8173,5651
+17,Morelos,012,Jojutla,0001,Jojutla,5214,3355,4630,2941,2200
+17,Morelos,012,Jojutla,0002,Chisco,151,19,117,41,14
+17,Morelos,012,Jojutla,0004,Higuerón,1432,703,1222,597,341
+17,Morelos,012,Jojutla,0005,Jicarero,400,192,348,172,126
+17,Morelos,012,Jojutla,0006,Nicolás Bravo,167,96,143,100,51
+17,Morelos,012,Jojutla,0008,Pedro Amaro,1591,657,1407,623,281
+17,Morelos,012,Jojutla,0009,Río Seco,74,14,59,15,3
+17,Morelos,012,Jojutla,0011,Tehuixtla,1911,843,1630,884,441
+17,Morelos,012,Jojutla,0012,Tequesquitengo,961,464,843,400,281
+17,Morelos,012,Jojutla,0013,Tlatenchi,1656,1032,1495,856,571
+17,Morelos,012,Jojutla,0014,Vicente Aranda (San Rafael),102,18,71,21,8
+17,Morelos,012,Jojutla,0018,Unidad Habitacional José María Morelos y Pavón,1027,748,955,687,547
+17,Morelos,012,Jojutla,0019,Bonanza,64,44,63,25,30
+17,Morelos,012,Jojutla,0020,Colonia Buenos Aires,303,214,290,155,186
+17,Morelos,012,Jojutla,0022,Hornos Cuates,81,22,77,21,20
+17,Morelos,012,Jojutla,0023,La Peña,10,4,8,2,4
+17,Morelos,012,Jojutla,0027,Arenales (Colonia Loma Bonita),*,*,*,*,*
+17,Morelos,012,Jojutla,0029,Las Fincas de Tequesquitengo,10,7,10,7,7
+17,Morelos,012,Jojutla,0030,Loma de Oro,*,*,*,*,*
+17,Morelos,012,Jojutla,0032,Unidad Habitacional Independencia,4,1,4,0,2
+17,Morelos,012,Jojutla,0033,Tenerías,6,0,6,1,2
+17,Morelos,012,Jojutla,0036,Los Pilares,106,85,102,49,60
+17,Morelos,012,Jojutla,0037,Colonia Álamos (La Frontera),130,91,123,66,72
+17,Morelos,012,Jojutla,0039,Campo San Pablo,50,25,46,19,15
+17,Morelos,012,Jojutla,0046,El Tular [Bodega de Fertilizantes],*,*,*,*,*
+17,Morelos,012,Jojutla,0047,Campo Nexpa,22,14,22,12,6
+17,Morelos,012,Jojutla,0052,Rancho la Joya (La Joya del Panteón),*,*,*,*,*
+17,Morelos,012,Jojutla,0053,Rancho de Armando Ramírez,6,4,6,1,1
+17,Morelos,012,Jojutla,0062,Agua del Coyote,9,0,6,4,0
+17,Morelos,012,Jojutla,0063,Ampliación Nicolás Bravo,265,161,247,99,77
+17,Morelos,012,Jojutla,0066,La Azuchilera,35,8,33,11,4
+17,Morelos,012,Jojutla,0067,El Paraíso [Balneario],16,8,16,9,6
+17,Morelos,012,Jojutla,0068,Barranca del Muerto,*,*,*,*,*
+17,Morelos,012,Jojutla,0069,La Bomba (Barranca Panchomas),0,0,0,0,0
+17,Morelos,012,Jojutla,0070,Las Brasileras,28,0,15,0,0
+17,Morelos,012,Jojutla,0071,Campo las Camarillas,*,*,*,*,*
+17,Morelos,012,Jojutla,0072,Campo el Fabián,12,1,12,2,1
+17,Morelos,012,Jojutla,0073,Campo la Purísima,7,4,7,2,3
+17,Morelos,012,Jojutla,0075,Ampliación Vicente Guerrero,86,55,86,36,60
+17,Morelos,012,Jojutla,0076,La Catalana,5,0,3,0,0
+17,Morelos,012,Jojutla,0078,Colonia la Azuchilera,18,9,18,7,5
+17,Morelos,012,Jojutla,0079,Colonia Guadalupe,17,6,14,6,1
+17,Morelos,012,Jojutla,0080,Los Estanques (Campo Torres Burgos),*,*,*,*,*
+17,Morelos,012,Jojutla,0082,Frente a la Tranca Campo San Pablo,6,5,6,5,2
+17,Morelos,012,Jojutla,0083,Avícola Fresco Pollo,3,0,1,0,0
+17,Morelos,012,Jojutla,0085,Los Guayabitos,*,*,*,*,*
+17,Morelos,012,Jojutla,0087,Los Lagartos,64,38,62,32,41
+17,Morelos,012,Jojutla,0088,Loma del Coyote,*,*,*,*,*
+17,Morelos,012,Jojutla,0089,Programa Morelense de Floricultura,*,*,*,*,*
+17,Morelos,012,Jojutla,0090,Brasilera Chica,31,1,28,0,0
+17,Morelos,012,Jojutla,0091,Rancho los Arenales,*,*,*,*,*
+17,Morelos,012,Jojutla,0092,Rancho Juan Ibáñez,3,0,2,0,0
+17,Morelos,012,Jojutla,0093,Las Sidras,*,*,*,*,*
+17,Morelos,012,Jojutla,0096,Campo Higuerón Nuevo,13,7,11,8,1
+17,Morelos,012,Jojutla,0098,3ra. Ampliación Lázaro Cárdenas,*,*,*,*,*
+17,Morelos,012,Jojutla,0099,Huajes,*,*,*,*,*
+17,Morelos,012,Jojutla,0100,La Joya (Ojo de Agua),6,3,6,4,0
+17,Morelos,012,Jojutla,0101,Colonia Ricardo Soto,20,9,19,5,3
+17,Morelos,012,Jojutla,0102,Unidad Habitacional los Venados I y II,303,115,298,99,63
+17,Morelos,012,Jojutla,0104,Bomba de las Camarillas,*,*,*,*,*
+17,Morelos,012,Jojutla,0106,Colonia Ampliación Santa María,151,45,142,30,29
+17,Morelos,012,Jojutla,0109,Ampliación Lázaro Cárdenas (El Molino),40,13,40,9,4
+17,Morelos,012,Jojutla,0110,Ampliación Pedro Amaro,23,14,22,12,4
+17,Morelos,012,Jojutla,0112,Campo Jojutla,3,0,3,1,0
+17,Morelos,012,Jojutla,0113,Ninguno [Centro Recreativo Ecológico],3,2,3,1,1
+17,Morelos,012,Jojutla,0115,Bella Vista,36,8,36,7,5
+17,Morelos,012,Jojutla,0116,Colonia Loma Bonita,19,7,18,6,2
+17,Morelos,012,Jojutla,0117,Colonia los Naranjos,*,*,*,*,*
+17,Morelos,012,Jojutla,0119,La Mesa de los Indios,8,2,7,4,1
+17,Morelos,012,Jojutla,0121,Campo Teocalcingo,11,8,10,8,4
+17,Morelos,012,Jojutla,0122,Colonia Ampliación el Paraíso,15,12,15,9,10
+17,Morelos,012,Jojutla,0123,Fraccionamiento el Proa,4,3,4,1,3
+17,Morelos,012,Jojutla,0124,Villas Teques,46,37,45,38,34
+17,Morelos,012,Jojutla,0125,Constitución del 57,39,21,36,22,16
+17,Morelos,012,Jojutla,9998,Localidades de una vivienda,8,2,11,1,2
+17,Morelos,012,Jojutla,9999,Localidades de dos viviendas,5,1,3,0,0
+17,Morelos,013,Jonacatepec de Leandro Valle,0000,Total del Municipio,4458,1522,3863,1362,1196
+17,Morelos,013,Jonacatepec de Leandro Valle,0001,Jonacatepec de Leandro Valle,2354,1116,2131,999,920
+17,Morelos,013,Jonacatepec de Leandro Valle,0002,Amacuitlapilco,688,117,524,62,67
+17,Morelos,013,Jonacatepec de Leandro Valle,0004,Ex-Hacienda Montefalco,*,*,*,*,*
+17,Morelos,013,Jonacatepec de Leandro Valle,0006,Tetelilla,1032,211,876,191,129
+17,Morelos,013,Jonacatepec de Leandro Valle,0007,Tlayca,155,41,116,26,35
+17,Morelos,013,Jonacatepec de Leandro Valle,0010,Las Bugambilias,4,1,4,2,0
+17,Morelos,013,Jonacatepec de Leandro Valle,0011,La Divina Providencia,4,1,4,0,1
+17,Morelos,013,Jonacatepec de Leandro Valle,0014,La Cuenca Lechera,12,2,12,5,4
+17,Morelos,013,Jonacatepec de Leandro Valle,0019,El Puente Colorado,12,1,13,3,2
+17,Morelos,013,Jonacatepec de Leandro Valle,0024,Campo del Barro,3,0,2,2,0
+17,Morelos,013,Jonacatepec de Leandro Valle,0026,Colonia Emiliano Zapata,*,*,*,*,*
+17,Morelos,013,Jonacatepec de Leandro Valle,0027,Colonia Juárez,1,1,3,0,0
+17,Morelos,013,Jonacatepec de Leandro Valle,0036,Rancho la Misión,3,0,3,1,1
+17,Morelos,013,Jonacatepec de Leandro Valle,0037,Santa Cruz,135,21,124,51,22
+17,Morelos,013,Jonacatepec de Leandro Valle,0039,El Carrizal,4,1,4,1,1
+17,Morelos,013,Jonacatepec de Leandro Valle,0040,Las Granjas (Cuezcomata),*,*,*,*,*
+17,Morelos,013,Jonacatepec de Leandro Valle,0041,Rancho los Mangos,*,*,*,*,*
+17,Morelos,013,Jonacatepec de Leandro Valle,0042,Rancho el Abrevadero (Campo Mata Redonda),*,*,*,*,*
+17,Morelos,013,Jonacatepec de Leandro Valle,0045,Campo Piedra Rajada,2,1,3,0,0
+17,Morelos,013,Jonacatepec de Leandro Valle,0046,La Casa de Piedra,*,*,*,*,*
+17,Morelos,013,Jonacatepec de Leandro Valle,0048,El Pedregal,6,2,6,2,2
+17,Morelos,013,Jonacatepec de Leandro Valle,0049,El Rancho de Chabelo,*,*,*,*,*
+17,Morelos,013,Jonacatepec de Leandro Valle,0051,Tetelilla,3,0,1,0,0
+17,Morelos,013,Jonacatepec de Leandro Valle,0052,Barrio de San Martín,3,0,2,1,2
+17,Morelos,013,Jonacatepec de Leandro Valle,0053,Colonia San Martín,10,0,9,2,0
+17,Morelos,013,Jonacatepec de Leandro Valle,0055,Colonia las Cuevas,21,4,21,11,8
+17,Morelos,013,Jonacatepec de Leandro Valle,9998,Localidades de una vivienda,6,2,5,3,2
+17,Morelos,014,Mazatepec,0000,Total del Municipio,2867,1315,2346,999,761
+17,Morelos,014,Mazatepec,0001,Mazatepec,1256,681,1051,515,420
+17,Morelos,014,Mazatepec,0002,Cuauchichinola,747,290,551,93,150
+17,Morelos,014,Mazatepec,0003,Santa Cruz Vista Alegre,191,113,160,110,32
+17,Morelos,014,Mazatepec,0005,Colonia Ojos de Agua de Cuauchichinola,10,0,6,0,0
+17,Morelos,014,Mazatepec,0008,Colonia el Florido,337,145,301,168,102
+17,Morelos,014,Mazatepec,0010,Carmelo Rivera,*,*,*,*,*
+17,Morelos,014,Mazatepec,0012,Puentes de Fierro,43,23,37,20,13
+17,Morelos,014,Mazatepec,0014,Colonia Lomas del Calvario,39,7,30,3,5
+17,Morelos,014,Mazatepec,0016,La Vuelta,8,0,5,0,1
+17,Morelos,014,Mazatepec,0017,La Caseta,14,0,13,0,0
+17,Morelos,014,Mazatepec,0018,Las Huertas,27,3,26,16,2
+17,Morelos,014,Mazatepec,0019,Colonia Justo Sierra,75,17,66,21,4
+17,Morelos,014,Mazatepec,0020,Ampliación Justo Sierra [Subestación Eléctrica],3,0,3,0,0
+17,Morelos,014,Mazatepec,0022,Campo el Guarín,2,0,2,1,0
+17,Morelos,014,Mazatepec,0023,Campo Huismaloca,*,*,*,*,*
+17,Morelos,014,Mazatepec,0024,Colonia el Calvario,39,11,31,14,9
+17,Morelos,014,Mazatepec,0026,Colonia la Melena,14,7,8,10,5
+17,Morelos,014,Mazatepec,0027,Colonia la Trilla,3,0,2,3,0
+17,Morelos,014,Mazatepec,0028,Colinas de Mazatepec [Fraccionamiento],18,5,14,7,6
+17,Morelos,014,Mazatepec,0029,Tranca de Fierro,8,0,8,0,1
+17,Morelos,014,Mazatepec,0030,Ribera del Río Tembembe,3,0,2,1,0
+17,Morelos,014,Mazatepec,0031,Colonia Valle Verde,30,13,28,17,11
+17,Morelos,014,Mazatepec,9998,Localidades de una vivienda,*,*,*,*,*
+17,Morelos,015,Miacatlán,0000,Total del Municipio,4543,2132,3735,1839,1130
+17,Morelos,015,Miacatlán,0001,Miacatlán,2079,1248,1768,1077,706
+17,Morelos,015,Miacatlán,0002,Atzompa,17,7,14,7,3
+17,Morelos,015,Miacatlán,0003,Xochicalco (Cirenio Longares),303,112,264,56,51
+17,Morelos,015,Miacatlán,0005,Palo Grande,78,2,71,34,5
+17,Morelos,015,Miacatlán,0006,Palpan de Baranda,296,114,184,135,54
+17,Morelos,015,Miacatlán,0007,El Paredón,8,0,7,4,0
+17,Morelos,015,Miacatlán,0008,Rancho Viejo,14,0,9,0,0
+17,Morelos,015,Miacatlán,0009,El Rincón,35,0,31,13,1
+17,Morelos,015,Miacatlán,0010,El Rodeo,438,205,350,95,95
+17,Morelos,015,Miacatlán,0011,Tlajotla,49,0,29,9,1
+17,Morelos,015,Miacatlán,0019,La Campesina (Colonia los Tulipanes),89,51,79,38,28
+17,Morelos,015,Miacatlán,0020,Emiliano Zapata,155,71,145,68,40
+17,Morelos,015,Miacatlán,0022,Fraccionamiento Huertos de Miacatlán,22,8,18,9,4
+17,Morelos,015,Miacatlán,0023,Los Linares,113,31,67,34,6
+17,Morelos,015,Miacatlán,0028,Colonia Álvaro Obregón,131,43,113,46,18
+17,Morelos,015,Miacatlán,0029,El Mirador,435,161,358,178,85
+17,Morelos,015,Miacatlán,0030,El Terrero,34,1,29,8,3
+17,Morelos,015,Miacatlán,0031,La Lima (El Trapiche de Luna),18,15,17,2,0
+17,Morelos,015,Miacatlán,0035,Mejapa (El Puente Colorado),15,4,15,1,1
+17,Morelos,015,Miacatlán,0037,El Amate Amarillo,*,*,*,*,*
+17,Morelos,015,Miacatlán,0038,Colonia la Cuajiotera,15,1,17,6,1
+17,Morelos,015,Miacatlán,0041,Granja Independencia,*,*,*,*,*
+17,Morelos,015,Miacatlán,0044,La Presita,*,*,*,*,*
+17,Morelos,015,Miacatlán,0046,El Rosario,*,*,*,*,*
+17,Morelos,015,Miacatlán,0049,Colonia Vista Hermosa,177,50,129,15,25
+17,Morelos,015,Miacatlán,0051,Colonia Atzompa,5,4,4,3,0
+17,Morelos,015,Miacatlán,0052,El Llano,*,*,*,*,*
+17,Morelos,015,Miacatlán,0054,Terrero Grande,11,3,11,1,3
+17,Morelos,015,Miacatlán,0060,Colonia la Trilla,*,*,*,*,*
+17,Morelos,015,Miacatlán,9998,Localidades de una vivienda,2,0,2,0,0
+17,Morelos,015,Miacatlán,9999,Localidades de dos viviendas,4,1,4,0,0
+17,Morelos,016,Ocuituco,0000,Total del Municipio,4931,1432,4103,535,758
+17,Morelos,016,Ocuituco,0001,Ocuituco,1401,612,1194,222,384
+17,Morelos,016,Ocuituco,0002,Huecahuasco,518,104,451,17,36
+17,Morelos,016,Ocuituco,0003,Huejotengo (San Marcos),295,105,245,29,55
+17,Morelos,016,Ocuituco,0004,Huepalcalco (San Miguel),304,55,219,22,26
+17,Morelos,016,Ocuituco,0005,Jumiltepec,1147,228,917,133,107
+17,Morelos,016,Ocuituco,0006,Metepec,702,175,614,73,106
+17,Morelos,016,Ocuituco,0007,Ocoxaltepec,396,112,304,15,18
+17,Morelos,016,Ocuituco,0009,Chignahuapan,4,2,3,1,1
+17,Morelos,016,Ocuituco,0010,La Higuera,4,0,3,1,0
+17,Morelos,016,Ocuituco,0011,Colonia Colinas del Sol,18,0,16,3,2
+17,Morelos,016,Ocuituco,0012,La Ponderosa,32,13,29,5,7
+17,Morelos,016,Ocuituco,0013,Santa Elena de la Cruz,*,*,*,*,*
+17,Morelos,016,Ocuituco,0014,Santa Mónica,13,7,12,4,6
+17,Morelos,016,Ocuituco,0016,Cruz de Lima,0,0,0,0,0
+17,Morelos,016,Ocuituco,0017,Rancho los Espino,5,1,5,0,3
+17,Morelos,016,Ocuituco,0018,La Isla Chica,*,*,*,*,*
+17,Morelos,016,Ocuituco,0020,Tlacuatzingo,21,3,16,1,1
+17,Morelos,016,Ocuituco,0023,La Cebada,*,*,*,*,*
+17,Morelos,016,Ocuituco,0025,Huauscuautla,*,*,*,*,*
+17,Morelos,016,Ocuituco,0032,Casahuatitla,4,0,3,3,0
+17,Morelos,016,Ocuituco,0033,Ninguno [CBTA],4,0,3,0,0
+17,Morelos,016,Ocuituco,0035,Cuestepec,5,1,5,0,0
+17,Morelos,016,Ocuituco,0036,La Finca,4,0,4,0,0
+17,Morelos,016,Ocuituco,0037,Huazotepec,10,1,10,0,1
+17,Morelos,016,Ocuituco,0040,Ocotitla,*,*,*,*,*
+17,Morelos,016,Ocuituco,0042,San Juan,*,*,*,*,*
+17,Morelos,016,Ocuituco,0046,Cerrito Colorado,13,6,13,1,2
+17,Morelos,016,Ocuituco,0047,La Ixtla,12,0,12,1,0
+17,Morelos,016,Ocuituco,0048,La Rosita (Rancho el Paraíso),3,2,3,0,0
+17,Morelos,016,Ocuituco,0050,Piedra Rajada,1,0,5,0,0
+17,Morelos,016,Ocuituco,0053,El Encinal,*,*,*,*,*
+17,Morelos,016,Ocuituco,0054,Rancho de Fidel Argandar,*,*,*,*,*
+17,Morelos,016,Ocuituco,0056,Rancho de Valente Montenegro,*,*,*,*,*
+17,Morelos,016,Ocuituco,0057,Nopaltitla,5,2,5,2,1
+17,Morelos,016,Ocuituco,0058,Campo el Ocote,*,*,*,*,*
+17,Morelos,016,Ocuituco,0059,Campo el Llano,*,*,*,*,*
+17,Morelos,016,Ocuituco,9998,Localidades de una vivienda,5,2,8,1,2
+17,Morelos,016,Ocuituco,9999,Localidades de dos viviendas,5,1,4,1,0
+17,Morelos,017,Puente de Ixtla,0000,Total del Municipio,11183,5321,9563,4766,3149
+17,Morelos,017,Puente de Ixtla,0001,Puente de Ixtla,5752,3232,4980,2712,2085
+17,Morelos,017,Puente de Ixtla,0002,Ahuehuetzingo,449,139,360,118,75
+17,Morelos,017,Puente de Ixtla,0003,El Coco,184,73,152,64,21
+17,Morelos,017,Puente de Ixtla,0005,El Estudiante,438,135,364,138,60
+17,Morelos,017,Puente de Ixtla,0006,La Tigra,94,3,80,2,1
+17,Morelos,017,Puente de Ixtla,0007,Tilzapotla,1456,729,1150,578,289
+17,Morelos,017,Puente de Ixtla,0008,San José Vista Hermosa,1260,628,1103,592,376
+17,Morelos,017,Puente de Ixtla,0010,El Zapote,23,1,20,6,2
+17,Morelos,017,Puente de Ixtla,0011,El Salto,30,0,21,3,2
+17,Morelos,017,Puente de Ixtla,0012,Los Ídolos,61,14,47,13,2
+17,Morelos,017,Puente de Ixtla,0013,Kilómetro 107 (Loma Larga),15,3,11,3,3
+17,Morelos,017,Puente de Ixtla,0015,Pineda,10,2,9,5,0
+17,Morelos,017,Puente de Ixtla,0017,Los Tanques,4,0,4,0,0
+17,Morelos,017,Puente de Ixtla,0025,Loma Florida,96,26,80,22,10
+17,Morelos,017,Puente de Ixtla,0028,Los Papayos,5,0,5,0,0
+17,Morelos,017,Puente de Ixtla,0030,Portesuelo,5,0,3,2,0
+17,Morelos,017,Puente de Ixtla,0032,Rancho Panchomas,26,11,24,9,9
+17,Morelos,017,Puente de Ixtla,0033,San Antonio (Las Granjas),7,3,3,3,1
+17,Morelos,017,Puente de Ixtla,0046,24 de Febrero,101,16,91,47,12
+17,Morelos,017,Puente de Ixtla,0050,Campo Amor,*,*,*,*,*
+17,Morelos,017,Puente de Ixtla,0052,El Llano,*,*,*,*,*
+17,Morelos,017,Puente de Ixtla,0053,El Naranjo,100,13,89,45,9
+17,Morelos,017,Puente de Ixtla,0057,El Rodeo,2,0,0,1,0
+17,Morelos,017,Puente de Ixtla,0064,Tranca del Coco,40,21,33,20,8
+17,Morelos,017,Puente de Ixtla,0065,Colonia Valle Bonito (Los Arcos Caídos),84,3,70,51,6
+17,Morelos,017,Puente de Ixtla,0067,El Salado,*,*,*,*,*
+17,Morelos,017,Puente de Ixtla,0077,Las Albóndigas,*,*,*,*,*
+17,Morelos,017,Puente de Ixtla,0078,Lomas Altas,3,2,3,1,2
+17,Morelos,017,Puente de Ixtla,0080,Campo Agua Salada,*,*,*,*,*
+17,Morelos,017,Puente de Ixtla,0081,Campo Galera,*,*,*,*,*
+17,Morelos,017,Puente de Ixtla,0085,Colonia los Pinos,8,1,7,2,3
+17,Morelos,017,Puente de Ixtla,0087,Colonia San Pedro,110,37,98,37,18
+17,Morelos,017,Puente de Ixtla,0089,Ninguno [Deportivo Oxford],6,1,6,3,1
+17,Morelos,017,Puente de Ixtla,0094,El Iztacoáquetl,*,*,*,*,*
+17,Morelos,017,Puente de Ixtla,0098,El Polvorín,4,3,5,1,0
+17,Morelos,017,Puente de Ixtla,0099,Puente el Naranjo,50,1,43,13,2
+17,Morelos,017,Puente de Ixtla,0102,Rancho los Ílamos,*,*,*,*,*
+17,Morelos,017,Puente de Ixtla,0103,Rancho Santa Elena (Rancho del Ingeniero),0,2,2,0,0
+17,Morelos,017,Puente de Ixtla,0105,El Tecolote (Galera Pineda),*,*,*,*,*
+17,Morelos,017,Puente de Ixtla,0106,Vivero Siempre Verde,5,2,4,2,0
+17,Morelos,017,Puente de Ixtla,0108,Ampliación Miguel Hidalgo,28,4,22,4,2
+17,Morelos,017,Puente de Ixtla,0115,El Mirador,*,*,*,*,*
+17,Morelos,017,Puente de Ixtla,0119,Colonia Valle Dorado,37,1,33,9,2
+17,Morelos,017,Puente de Ixtla,0122,Contreras,3,1,2,2,0
+17,Morelos,017,Puente de Ixtla,0123,La Curva de la Vía,4,0,2,0,0
+17,Morelos,017,Puente de Ixtla,0124,El Paso del Guayabo,*,*,*,*,*
+17,Morelos,017,Puente de Ixtla,0130,Ampliación Benito Juárez,52,7,44,9,2
+17,Morelos,017,Puente de Ixtla,0131,Ampliación Colonia Jardines de la Herradura,31,14,33,12,8
+17,Morelos,017,Puente de Ixtla,0133,Colonia Aeródromo,8,3,7,2,4
+17,Morelos,017,Puente de Ixtla,0134,Colonia Buenavista,49,9,41,21,5
+17,Morelos,017,Puente de Ixtla,0135,Colonia Emiliano Zapata,88,46,84,34,32
+17,Morelos,017,Puente de Ixtla,0136,Colonia Emiliano Zapata,7,4,7,1,1
+17,Morelos,017,Puente de Ixtla,0137,Guadalupe Victoria,83,32,76,33,23
+17,Morelos,017,Puente de Ixtla,0139,Ampliación Colonia Norte,37,11,34,11,5
+17,Morelos,017,Puente de Ixtla,0140,Colonia los Arcos,104,6,95,41,11
+17,Morelos,017,Puente de Ixtla,0141,Loma de Plaza,*,*,*,*,*
+17,Morelos,017,Puente de Ixtla,0143,Colonia Buenos Aires,156,73,152,79,54
+17,Morelos,017,Puente de Ixtla,0144,Colonia la Providencia,51,8,49,12,3
+17,Morelos,017,Puente de Ixtla,0147,Cacahuananche,3,1,2,0,0
+17,Morelos,017,Puente de Ixtla,9998,Localidades de una vivienda,6,0,6,1,0
+17,Morelos,017,Puente de Ixtla,9999,Localidades de dos viviendas,8,0,7,2,0
+17,Morelos,018,Temixco,0000,Total del Municipio,34467,17726,31238,11214,10804
+17,Morelos,018,Temixco,0001,Temixco,29475,15720,26660,10040,9544
+17,Morelos,018,Temixco,0004,Cuentepec,1022,226,875,37,93
+17,Morelos,018,Temixco,0008,San Agustín Tetlama,499,146,412,47,50
+17,Morelos,018,Temixco,0024,Benito Juárez (La Monera),195,87,185,38,48
+17,Morelos,018,Temixco,0025,Santa Cruz Milpillas,87,20,81,40,10
+17,Morelos,018,Temixco,0028,Lomas de Santa Clara,17,3,14,0,2
+17,Morelos,018,Temixco,0029,Campo Santa Cruz (La Joya),3,1,3,0,0
+17,Morelos,018,Temixco,0030,Campo Sotelo,458,327,443,202,263
+17,Morelos,018,Temixco,0031,Colonia Santa Úrsula,296,42,262,43,17
+17,Morelos,018,Temixco,0032,Solidaridad,280,116,268,59,35
+17,Morelos,018,Temixco,0036,Colonia la Parota,52,2,40,0,3
+17,Morelos,018,Temixco,0037,Colonia el Ajonjolinar,85,15,84,6,10
+17,Morelos,018,Temixco,0038,Colonia las Águilas de los Tehuixtles,111,35,101,15,16
+17,Morelos,018,Temixco,0044,Eterna Primavera,290,92,270,49,33
+17,Morelos,018,Temixco,0046,Unidad Piscícola Joya Palomares,16,8,18,3,2
+17,Morelos,018,Temixco,0048,Colonia Aquiles Serdán,4,3,4,2,3
+17,Morelos,018,Temixco,0050,Campo de Piedras Agujeradas,8,1,7,1,1
+17,Morelos,018,Temixco,0051,Campo el Rayo (Acatlipa),13,11,13,8,5
+17,Morelos,018,Temixco,0052,Campo las Martinicas (Las Higueras),8,1,9,0,1
+17,Morelos,018,Temixco,0056,Loma del Ahuijote (Barriales),9,5,8,1,3
+17,Morelos,018,Temixco,0057,El Cornejal,15,6,13,1,1
+17,Morelos,018,Temixco,0058,Lomas de Mejía,7,0,5,1,0
+17,Morelos,018,Temixco,0059,Lomas de San Felipe,15,3,14,1,3
+17,Morelos,018,Temixco,0061,Paraje del Cerro Mazatepetongo,*,*,*,*,*
+17,Morelos,018,Temixco,0062,Rancho de Julio Vega,5,3,4,0,2
+17,Morelos,018,Temixco,0063,Colonia Aeropuerto 5ta. Sección los Pinos,47,17,35,4,13
+17,Morelos,018,Temixco,0064,Ampliación de los Amates,35,16,33,9,10
+17,Morelos,018,Temixco,0065,Asociación de Colonos de Tepeyac,60,12,58,8,10
+17,Morelos,018,Temixco,0067,Colonia las Rosas,*,*,*,*,*
+17,Morelos,018,Temixco,0068,Colonia Aeropuerto (Campo los Lechosos),12,6,12,2,3
+17,Morelos,018,Temixco,0069,Barranca Colorada,16,1,15,4,1
+17,Morelos,018,Temixco,0070,Colonia Miguel Hidalgo,178,135,177,102,107
+17,Morelos,018,Temixco,0071,Cuentepec,6,3,7,0,0
+17,Morelos,018,Temixco,0072,Ampliación Lázaro Cárdenas,86,36,77,20,16
+17,Morelos,018,Temixco,0074,La Loma,67,36,62,12,22
+17,Morelos,018,Temixco,0078,Lomas de Cazahuatlán,*,*,*,*,*
+17,Morelos,018,Temixco,0079,Los Lechones,19,14,18,7,3
+17,Morelos,018,Temixco,0080,Colinas de Altar,391,235,384,188,217
+17,Morelos,018,Temixco,0081,Punta Verde,579,342,566,264,257
+17,Morelos,018,Temixco,9998,Localidades de una vivienda,*,*,*,*,*
+17,Morelos,018,Temixco,9999,Localidades de dos viviendas,*,*,*,*,*
+17,Morelos,019,Tepalcingo,0000,Total del Municipio,7691,2290,6621,2114,1553
+17,Morelos,019,Tepalcingo,0001,Tepalcingo,3552,1117,3097,954,827
+17,Morelos,019,Tepalcingo,0002,Atotonilco,990,372,855,362,246
+17,Morelos,019,Tepalcingo,0003,Huitchila,576,136,504,91,84
+17,Morelos,019,Tepalcingo,0004,Ixtlilco el Chico,442,54,388,234,53
+17,Morelos,019,Tepalcingo,0005,Ixtlilco el Grande,1002,326,831,271,173
+17,Morelos,019,Tepalcingo,0006,El Limón de Cuauchichinola,30,2,20,22,1
+17,Morelos,019,Tepalcingo,0007,Adolfo López Mateos,161,22,145,24,19
+17,Morelos,019,Tepalcingo,0008,Pitzotlán,1,0,14,1,1
+17,Morelos,019,Tepalcingo,0009,Los Sauces,96,10,53,26,6
+17,Morelos,019,Tepalcingo,0010,El Tepehuaje,42,0,28,12,1
+17,Morelos,019,Tepalcingo,0011,Zacapalco,516,210,422,66,99
+17,Morelos,019,Tepalcingo,0012,Cruz de Jaramalla (Colonia Lauro Ortega),103,12,96,10,16
+17,Morelos,019,Tepalcingo,0013,Los Tulipanes,40,9,39,6,11
+17,Morelos,019,Tepalcingo,0015,Emiliano Zapata,8,1,8,1,0
+17,Morelos,019,Tepalcingo,0016,Rancho la Huerta,3,1,3,1,2
+17,Morelos,019,Tepalcingo,0017,Mano Pintada,3,0,3,2,2
+17,Morelos,019,Tepalcingo,0019,Rancho el Bambú (La Presa),5,1,4,1,1
+17,Morelos,019,Tepalcingo,0021,Las Joyas,28,1,24,9,0
+17,Morelos,019,Tepalcingo,0023,Los Anonos,4,0,4,0,0
+17,Morelos,019,Tepalcingo,0026,La Granja,5,1,4,1,0
+17,Morelos,019,Tepalcingo,0027,Campo las Pilas,*,*,*,*,*
+17,Morelos,019,Tepalcingo,0029,Rancho Covadonga,*,*,*,*,*
+17,Morelos,019,Tepalcingo,0030,Rancho las Águilas,*,*,*,*,*
+17,Morelos,019,Tepalcingo,0031,Colonia Buenos Aires,14,0,14,5,0
+17,Morelos,019,Tepalcingo,0032,Colonia 20 de Noviembre,7,1,6,2,1
+17,Morelos,019,Tepalcingo,0033,La Vía,13,5,11,2,4
+17,Morelos,019,Tepalcingo,0034,La Presita,*,*,*,*,*
+17,Morelos,019,Tepalcingo,0035,Agua Fría,*,*,*,*,*
+17,Morelos,019,Tepalcingo,0037,Paraje el Espejo,*,*,*,*,*
+17,Morelos,019,Tepalcingo,0038,Campo la Sábila,*,*,*,*,*
+17,Morelos,019,Tepalcingo,0039,La Junta,3,1,3,1,1
+17,Morelos,019,Tepalcingo,0040,El Pozo,6,1,5,2,1
+17,Morelos,019,Tepalcingo,0041,La Joyita de Piedra Grande,0,0,1,0,0
+17,Morelos,019,Tepalcingo,0043,Colonia Emiliano Zapata,7,0,8,2,0
+17,Morelos,019,Tepalcingo,0044,Colonia Francisco I. Madero,8,2,7,1,2
+17,Morelos,019,Tepalcingo,0046,Ixtlilco el Grande,6,2,7,2,0
+17,Morelos,019,Tepalcingo,0050,Tenería,*,*,*,*,*
+17,Morelos,019,Tepalcingo,0051,La Joya,6,0,3,0,0
+17,Morelos,019,Tepalcingo,0053,El Rosal Norte,*,*,*,*,*
+17,Morelos,019,Tepalcingo,0054,Las Pilas,*,*,*,*,*
+17,Morelos,019,Tepalcingo,0055,Pozo Número 39,*,*,*,*,*
+17,Morelos,019,Tepalcingo,0057,Ninguno [DICONSA],2,0,2,1,1
+17,Morelos,019,Tepalcingo,9998,Localidades de una vivienda,8,2,8,2,1
+17,Morelos,019,Tepalcingo,9999,Localidades de dos viviendas,4,1,4,0,0
+17,Morelos,020,Tepoztlán,0000,Total del Municipio,15413,9165,13723,5758,5484
+17,Morelos,020,Tepoztlán,0001,Tepoztlán,4431,3091,3837,2274,2082
+17,Morelos,020,Tepoztlán,0002,Colonia Ángel Bocanegra (Adolfo López Mateos),330,138,293,89,87
+17,Morelos,020,Tepoztlán,0003,Amatlán de Quetzalcóatl,375,282,319,128,141
+17,Morelos,020,Tepoztlán,0004,Ixcatepec,214,133,183,80,102
+17,Morelos,020,Tepoztlán,0005,San Andrés de la Cal,445,264,305,140,140
+17,Morelos,020,Tepoztlán,0006,Santa Catarina,1400,572,1228,385,276
+17,Morelos,020,Tepoztlán,0007,Santiago Tepetlapa,279,198,254,138,110
+17,Morelos,020,Tepoztlán,0008,Santo Domingo Ocotitlán,502,271,335,207,93
+17,Morelos,020,Tepoztlán,0009,San Juan Tlacotenco,595,364,528,117,174
+17,Morelos,020,Tepoztlán,0010,Colonia Obrera,438,246,397,250,180
+17,Morelos,020,Tepoztlán,0011,Acolapan,*,*,*,*,*
+17,Morelos,020,Tepoztlán,0017,Colonia Tecmilco,89,56,89,23,41
+17,Morelos,020,Tepoztlán,0021,Achichipico,22,20,22,12,17
+17,Morelos,020,Tepoztlán,0025,Rancho mi Ilusión (Xaltepetlaoztoc),3,2,3,3,0
+17,Morelos,020,Tepoztlán,0027,Amilcingo,6,4,8,2,0
+17,Morelos,020,Tepoztlán,0028,Cacaloapan,43,16,39,11,10
+17,Morelos,020,Tepoztlán,0031,Atiopa (Mi Bohío),22,16,22,11,12
+17,Morelos,020,Tepoztlán,0032,Huehuecóyotl,11,11,9,1,10
+17,Morelos,020,Tepoztlán,0036,Kilómetro 14 (Tempampulco),23,18,23,9,16
+17,Morelos,020,Tepoztlán,0038,Tlaltépetl,70,26,65,20,24
+17,Morelos,020,Tepoztlán,0039,Colonia Chichco (Chisco),74,29,73,23,25
+17,Morelos,020,Tepoztlán,0041,Mirador de la Pera,*,*,*,*,*
+17,Morelos,020,Tepoztlán,0042,La Palapa,38,24,35,13,13
+17,Morelos,020,Tepoztlán,0046,Huachinantitla,83,44,71,29,33
+17,Morelos,020,Tepoztlán,0048,El Amate,*,*,*,*,*
+17,Morelos,020,Tepoztlán,0052,Hueycuagco,25,4,23,7,3
+17,Morelos,020,Tepoztlán,0053,Kilómetro 10 (El Sombrero),8,6,8,0,4
+17,Morelos,020,Tepoztlán,0054,Cuitzcuixcatla (Kilómetro 14.5),9,4,9,2,3
+17,Morelos,020,Tepoztlán,0061,Monte Castillo,5,0,5,2,2
+17,Morelos,020,Tepoztlán,0067,Los Farallones de Santiago (Chahuapa),21,13,22,12,11
+17,Morelos,020,Tepoztlán,0069,Cerro Cuate,*,*,*,*,*
+17,Morelos,020,Tepoztlán,0070,Colonia Benito Juárez,22,1,17,3,2
+17,Morelos,020,Tepoztlán,0071,El Texcal,17,12,16,4,9
+17,Morelos,020,Tepoztlán,0072,Escalontlajco (El Mirador),17,14,15,1,13
+17,Morelos,020,Tepoztlán,0073,Granja de los Pollos Carlitos,*,*,*,*,*
+17,Morelos,020,Tepoztlán,0074,Kilómetro 15,18,9,16,5,7
+17,Morelos,020,Tepoztlán,0075,Kilómetro 15.5,40,23,37,14,22
+17,Morelos,020,Tepoztlán,0077,El Pedregal,15,4,14,10,1
+17,Morelos,020,Tepoztlán,0081,Tecuezcontitla,15,8,14,4,5
+17,Morelos,020,Tepoztlán,0082,Tehuixcorral (Colonia San Martín Caballero),39,3,37,12,8
+17,Morelos,020,Tepoztlán,0083,Tepepatlaxco,10,7,10,2,3
+17,Morelos,020,Tepoztlán,0084,Tlapetlaloya,7,2,7,4,2
+17,Morelos,020,Tepoztlán,0085,Tetecolala,928,593,890,265,350
+17,Morelos,020,Tepoztlán,0086,Texio,13,3,10,7,2
+17,Morelos,020,Tepoztlán,0087,Tiamacosclippac,25,12,19,4,7
+17,Morelos,020,Tepoztlán,0088,Vista al Valle (Tlaxomolco),27,7,27,8,10
+17,Morelos,020,Tepoztlán,0089,Zacatecontitla,*,*,*,*,*
+17,Morelos,020,Tepoztlán,0090,Cuaxoxoco,15,10,15,1,9
+17,Morelos,020,Tepoztlán,0091,El Bohío (Techcualichcuac),*,*,*,*,*
+17,Morelos,020,Tepoztlán,0092,Cazahuatla,18,2,16,1,3
+17,Morelos,020,Tepoztlán,0093,Colonia Cuahquiahuac,22,14,22,9,16
+17,Morelos,020,Tepoztlán,0095,Tlalnáhuac (Texalo),41,21,38,19,15
+17,Morelos,020,Tepoztlán,0097,Colonia Loma Esmeralda,458,232,437,75,79
+17,Morelos,020,Tepoztlán,0099,Loma Bonita,1107,686,1035,335,358
+17,Morelos,020,Tepoztlán,0100,Paso Ancho (Tlanexpa),*,*,*,*,*
+17,Morelos,020,Tepoztlán,0101,Rancho los Ojuelos,*,*,*,*,*
+17,Morelos,020,Tepoztlán,0102,Unidad Habitacional Rinconada Acolapa,931,664,903,452,454
+17,Morelos,020,Tepoztlán,0103,Xolatlaco,39,30,38,15,23
+17,Morelos,020,Tepoztlán,0104,Colonia Huilotepec,263,133,226,88,80
+17,Morelos,020,Tepoztlán,0105,La Joya,47,12,40,3,7
+17,Morelos,020,Tepoztlán,0107,Colonia del Carmen,242,120,226,89,81
+17,Morelos,020,Tepoztlán,0108,Colonia los Ocotes,103,50,96,37,41
+17,Morelos,020,Tepoztlán,0109,Tetenco,283,187,266,99,93
+17,Morelos,020,Tepoztlán,0110,Ampliación Milpillas,202,118,192,41,52
+17,Morelos,020,Tepoztlán,0111,Camino Antiguo a Tepoztlán,154,43,138,31,13
+17,Morelos,020,Tepoztlán,0112,Tecuahuitl,11,4,11,2,3
+17,Morelos,020,Tepoztlán,0113,Lomas del Pedregal,481,173,457,75,69
+17,Morelos,020,Tepoztlán,0114,Otlahyo (Camino Antiguo a Santo Domingo),7,5,7,5,3
+17,Morelos,020,Tepoztlán,0115,Cerritos de García (Textilacatl),149,86,150,32,25
+17,Morelos,020,Tepoztlán,0116,Bosques de Santa Catarina,19,6,13,3,2
+17,Morelos,020,Tepoztlán,0117,Otlayuca,*,*,*,*,*
+17,Morelos,020,Tepoztlán,0118,Chichihuitecan,56,16,51,9,6
+17,Morelos,020,Tepoztlán,9998,Localidades de una vivienda,3,1,4,2,2
+17,Morelos,020,Tepoztlán,9999,Localidades de dos viviendas,8,2,8,4,0
+17,Morelos,021,Tetecala,0000,Total del Municipio,2376,863,1973,725,541
+17,Morelos,021,Tetecala,0001,Tetecala,1522,641,1289,483,414
+17,Morelos,021,Tetecala,0002,Actopan,82,35,73,36,17
+17,Morelos,021,Tetecala,0003,Contlalco,94,21,71,30,9
+17,Morelos,021,Tetecala,0004,Cuautlita,108,45,79,28,21
+17,Morelos,021,Tetecala,0005,Colonia Francisco Sarabia,18,3,14,4,2
+17,Morelos,021,Tetecala,0008,El Cerrito (Cerrito de las Cruces),74,17,65,11,13
+17,Morelos,021,Tetecala,0014,Colonia Sonora,271,60,209,93,36
+17,Morelos,021,Tetecala,0015,Rancho Tonantzincalli,*,*,*,*,*
+17,Morelos,021,Tetecala,0016,Colonia Mariano Matamoros,150,34,128,29,21
+17,Morelos,021,Tetecala,0017,Rancho San Ignacio,*,*,*,*,*
+17,Morelos,021,Tetecala,0021,Colonia la Joya,*,*,*,*,*
+17,Morelos,021,Tetecala,0022,El Móvil,3,0,1,1,0
+17,Morelos,021,Tetecala,0023,Francisco Sarabia,18,0,16,1,2
+17,Morelos,021,Tetecala,0024,Colonia el Charco,24,4,16,6,3
+17,Morelos,021,Tetecala,0025,Llano Viejo,3,0,2,1,0
+17,Morelos,021,Tetecala,0026,Rancho Vaso Dos,1,1,2,0,1
+17,Morelos,021,Tetecala,0027,Palos de Fierro,4,1,4,1,1
+17,Morelos,021,Tetecala,9998,Localidades de una vivienda,*,*,*,*,*
+17,Morelos,021,Tetecala,9999,Localidades de dos viviendas,*,*,*,*,*
+17,Morelos,022,Tetela del Volcán,0000,Total del Municipio,3737,1109,3130,861,607
+17,Morelos,022,Tetela del Volcán,0001,Tetela del Volcán,3074,982,2590,773,568
+17,Morelos,022,Tetela del Volcán,0003,Tlalmimilulpan (San Pedro),473,114,378,58,22
+17,Morelos,022,Tetela del Volcán,0005,Lomas Lindas,51,4,51,13,4
+17,Morelos,022,Tetela del Volcán,0012,El Malinal,8,0,4,0,0
+17,Morelos,022,Tetela del Volcán,0015,San Miguel,5,0,4,1,1
+17,Morelos,022,Tetela del Volcán,0017,Zacapechpa (Zacapezuca),20,3,14,1,3
+17,Morelos,022,Tetela del Volcán,0018,El Capulín,*,*,*,*,*
+17,Morelos,022,Tetela del Volcán,0019,Paluca,*,*,*,*,*
+17,Morelos,022,Tetela del Volcán,0020,Potrero del Frijol (Temoaya),*,*,*,*,*
+17,Morelos,022,Tetela del Volcán,0021,Los Rodríguez,*,*,*,*,*
+17,Morelos,022,Tetela del Volcán,0022,Tecla,9,0,7,0,0
+17,Morelos,022,Tetela del Volcán,0023,Tlalamayocan,41,6,34,8,3
+17,Morelos,022,Tetela del Volcán,0037,Cacapola,14,0,14,2,0
+17,Morelos,022,Tetela del Volcán,0038,El Calabazo,*,*,*,*,*
+17,Morelos,022,Tetela del Volcán,0044,El Espinal,*,*,*,*,*
+17,Morelos,022,Tetela del Volcán,0046,Potrero de los Bueyes,*,*,*,*,*
+17,Morelos,022,Tetela del Volcán,0048,San Pablo,*,*,*,*,*
+17,Morelos,022,Tetela del Volcán,0049,San Sebastián,*,*,*,*,*
+17,Morelos,022,Tetela del Volcán,0053,Potrero de León (Rancho el León),*,*,*,*,*
+17,Morelos,022,Tetela del Volcán,0055,El Encinal,30,0,23,3,5
+17,Morelos,022,Tetela del Volcán,0061,Huacaltepoxco [Parque de los Venados],*,*,*,*,*
+17,Morelos,022,Tetela del Volcán,9998,Localidades de una vivienda,8,0,7,2,1
+17,Morelos,022,Tetela del Volcán,9999,Localidades de dos viviendas,4,0,4,0,0
+17,Morelos,023,Tlalnepantla,0000,Total del Municipio,2042,502,1730,597,284
+17,Morelos,023,Tlalnepantla,0001,Tlalnepantla,1108,275,971,293,158
+17,Morelos,023,Tlalnepantla,0002,Felipe Neri (Cuatepec),430,118,307,90,52
+17,Morelos,023,Tlalnepantla,0003,El Vigía (San Nicolás del Monte),257,26,231,93,29
+17,Morelos,023,Tlalnepantla,0007,El Pedregal,170,53,151,83,24
+17,Morelos,023,Tlalnepantla,0008,Fraccionamiento Calmil,15,9,15,11,8
+17,Morelos,023,Tlalnepantla,0009,Fraccionamiento los Robles,8,7,7,7,5
+17,Morelos,023,Tlalnepantla,0012,Fraccionamiento Hacienda Monte de los Olivos,*,*,*,*,*
+17,Morelos,023,Tlalnepantla,0013,Campo Chicahuaxco,4,0,4,1,0
+17,Morelos,023,Tlalnepantla,0014,Campo Cuauyeca,3,0,3,1,0
+17,Morelos,023,Tlalnepantla,0015,Campo los Jagüeyes,5,3,4,2,0
+17,Morelos,023,Tlalnepantla,0016,Campo Tepehuaxtitla,27,10,26,7,5
+17,Morelos,023,Tlalnepantla,0017,Bosques de Morelos,6,0,3,3,0
+17,Morelos,023,Tlalnepantla,0019,Fraccionamiento Hacienda Villa Campestre,7,1,6,5,3
+17,Morelos,023,Tlalnepantla,9999,Localidades de dos viviendas,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0000,Total del Municipio,14985,7296,13023,7163,3815
+17,Morelos,024,Tlaltizapán de Zapata,0001,Tlaltizapán,3151,1629,2738,1684,954
+17,Morelos,024,Tlaltizapán de Zapata,0002,Acamilpa,554,269,451,307,136
+17,Morelos,024,Tlaltizapán de Zapata,0004,Barranca Honda,235,75,200,86,38
+17,Morelos,024,Tlaltizapán de Zapata,0005,Bonifacio García (Colonia Alejandra),625,328,575,370,165
+17,Morelos,024,Tlaltizapán de Zapata,0006,San Pablo Hidalgo,185,54,89,25,16
+17,Morelos,024,Tlaltizapán de Zapata,0007,Huatecalco,1054,520,908,550,258
+17,Morelos,024,Tlaltizapán de Zapata,0009,Temilpa Nuevo,217,68,194,107,38
+17,Morelos,024,Tlaltizapán de Zapata,0010,Pueblo Nuevo,356,172,306,162,92
+17,Morelos,024,Tlaltizapán de Zapata,0011,Temimilcingo,458,217,413,252,82
+17,Morelos,024,Tlaltizapán de Zapata,0012,Ticumán,1073,574,929,518,287
+17,Morelos,024,Tlaltizapán de Zapata,0013,Santa Rosa Treinta,4902,2688,4236,2343,1384
+17,Morelos,024,Tlaltizapán de Zapata,0015,Temilpa Viejo,298,117,267,157,61
+17,Morelos,024,Tlaltizapán de Zapata,0016,San Rafael Zaragoza,365,109,300,94,51
+17,Morelos,024,Tlaltizapán de Zapata,0017,Ex-Hacienda de Barreto,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0021,Huertas el Mirador,5,1,5,2,4
+17,Morelos,024,Tlaltizapán de Zapata,0022,Las Estacas,13,2,11,8,1
+17,Morelos,024,Tlaltizapán de Zapata,0030,La Cima,4,2,4,3,1
+17,Morelos,024,Tlaltizapán de Zapata,0031,El Conquistador,42,12,34,14,5
+17,Morelos,024,Tlaltizapán de Zapata,0042,Unidad Habitacional Número 1 Emiliano Zapata (Las Galeras),0,0,0,0,0
+17,Morelos,024,Tlaltizapán de Zapata,0043,Campo la Organera,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0046,Rancho Joya del Fierro,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0049,Rancho los Soriano,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0051,Fraccionamiento Bugambilias,3,1,3,2,0
+17,Morelos,024,Tlaltizapán de Zapata,0054,Colonia Morelos,45,19,43,10,4
+17,Morelos,024,Tlaltizapán de Zapata,0057,El Jagüey,3,0,2,1,0
+17,Morelos,024,Tlaltizapán de Zapata,0058,Manantiales de Ticumán [Club],*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0060,Granja Luis y Lupita,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0062,Campo el Llano (El Puente Verde),27,8,22,6,5
+17,Morelos,024,Tlaltizapán de Zapata,0066,Ampliación Colonia el Tecolote,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0067,Colonia el Tecolote,7,7,7,2,2
+17,Morelos,024,Tlaltizapán de Zapata,0068,Campo el Órgano,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0071,Rancho Palo Verde (El Cerro),*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0075,El Puente,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0079,La Cabañita,14,1,14,4,1
+17,Morelos,024,Tlaltizapán de Zapata,0080,Colonia Francisco Javier Mina,4,0,11,0,0
+17,Morelos,024,Tlaltizapán de Zapata,0081,Colonia Palo Prieto (Chipitongo),363,141,338,175,44
+17,Morelos,024,Tlaltizapán de Zapata,0084,El Texcal,11,0,10,1,1
+17,Morelos,024,Tlaltizapán de Zapata,0087,Campo la Organera,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0089,Fraccionamiento Huertos de Agua Linda,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0092,Colonia el Pochote,60,6,57,5,11
+17,Morelos,024,Tlaltizapán de Zapata,0093,Casa Blanca,1,0,1,0,0
+17,Morelos,024,Tlaltizapán de Zapata,0095,Panzacola [Restaurante Campestre],*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0097,Campo Verde,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0098,Colonia 10 de Mayo (La Matanza),153,24,138,34,11
+17,Morelos,024,Tlaltizapán de Zapata,0099,El Mirador,4,1,3,0,0
+17,Morelos,024,Tlaltizapán de Zapata,0100,Otilio Montaño,33,6,28,2,9
+17,Morelos,024,Tlaltizapán de Zapata,0102,La Tarjea,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0104,Campo el Alférez,11,1,10,0,0
+17,Morelos,024,Tlaltizapán de Zapata,0107,Las Palomas,18,17,17,8,5
+17,Morelos,024,Tlaltizapán de Zapata,0109,El Monte del Ticumán,7,7,7,1,6
+17,Morelos,024,Tlaltizapán de Zapata,0110,Rancho el Triunfo (Campo Lagunilla),4,0,4,0,0
+17,Morelos,024,Tlaltizapán de Zapata,0114,Ampliación Zaragoza,6,1,6,3,2
+17,Morelos,024,Tlaltizapán de Zapata,0115,Campo San Martín (Prolongación Brígida García),*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0116,Colonia Echeverría,112,35,98,48,14
+17,Morelos,024,Tlaltizapán de Zapata,0118,Ampliación Benito Juárez,24,10,24,10,4
+17,Morelos,024,Tlaltizapán de Zapata,0119,Campo la Oricera,56,6,45,11,7
+17,Morelos,024,Tlaltizapán de Zapata,0120,Colonia el Chacal,5,0,5,0,1
+17,Morelos,024,Tlaltizapán de Zapata,0121,El Tanque,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0122,Huepalo,58,25,56,21,8
+17,Morelos,024,Tlaltizapán de Zapata,0123,La Joya de los Panales (Campo el Arquillo),39,13,39,17,6
+17,Morelos,024,Tlaltizapán de Zapata,0124,Los Cajetes,12,2,12,3,2
+17,Morelos,024,Tlaltizapán de Zapata,0125,Los Presidentes,20,1,16,5,0
+17,Morelos,024,Tlaltizapán de Zapata,0126,Campo el Capire,5,2,5,2,1
+17,Morelos,024,Tlaltizapán de Zapata,0127,Campo Casa Blanca,4,3,4,4,3
+17,Morelos,024,Tlaltizapán de Zapata,0128,Ampliación Colonia el Mirador (Ampliación Bomba),50,20,48,20,10
+17,Morelos,024,Tlaltizapán de Zapata,0129,La Mezquitera,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0130,Campo los San Juanes,2,0,6,0,2
+17,Morelos,024,Tlaltizapán de Zapata,0131,Campo San Lucas,24,1,23,8,0
+17,Morelos,024,Tlaltizapán de Zapata,0132,Lomas de Temilpa,0,0,2,0,0
+17,Morelos,024,Tlaltizapán de Zapata,0133,Colonia Niños Héroes,135,34,127,19,15
+17,Morelos,024,Tlaltizapán de Zapata,0134,Fraccionamiento Bonanza (Condominios Pontevedra),22,15,22,12,18
+17,Morelos,024,Tlaltizapán de Zapata,0135,Llano Grande,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0137,Rancho la Florida,*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0138,La Provincia,79,42,79,38,48
+17,Morelos,024,Tlaltizapán de Zapata,0139,Aquiles Serdán,3,0,3,0,0
+17,Morelos,024,Tlaltizapán de Zapata,0140,Río Dulce [Campamento],*,*,*,*,*
+17,Morelos,024,Tlaltizapán de Zapata,0141,La Cueva del Zopilote,8,2,8,2,0
+17,Morelos,024,Tlaltizapán de Zapata,9998,Localidades de una vivienda,12,7,12,5,2
+17,Morelos,024,Tlaltizapán de Zapata,9999,Localidades de dos viviendas,4,1,8,2,0
+17,Morelos,025,Tlaquiltenango,0000,Total del Municipio,10019,4582,8099,4353,2654
+17,Morelos,025,Tlaquiltenango,0001,Tlaquiltenango,5438,3120,4791,2669,1864
+17,Morelos,025,Tlaquiltenango,0002,Ajuchitlán,61,9,25,41,5
+17,Morelos,025,Tlaquiltenango,0004,Coaxitlán,139,8,125,75,6
+17,Morelos,025,Tlaquiltenango,0006,Chimalacatlán,103,7,49,35,5
+17,Morelos,025,Tlaquiltenango,0007,Los Elotes (San Miguel de los Elotes),29,1,11,8,1
+17,Morelos,025,Tlaquiltenango,0008,La Era (Calalpa),139,3,64,48,2
+17,Morelos,025,Tlaquiltenango,0009,Huautla,267,117,113,80,24
+17,Morelos,025,Tlaquiltenango,0010,Huaxtla,20,2,8,13,0
+17,Morelos,025,Tlaquiltenango,0011,Huixastla,73,1,52,40,3
+17,Morelos,025,Tlaquiltenango,0012,Lorenzo Vázquez (Santa Cruz),240,102,139,30,19
+17,Morelos,025,Tlaquiltenango,0013,La Mezquitera (El Astillero),172,11,106,61,12
+17,Morelos,025,Tlaquiltenango,0014,Nexpa,142,41,82,44,10
+17,Morelos,025,Tlaquiltenango,0015,Pueblo Viejo,147,9,139,30,10
+17,Morelos,025,Tlaquiltenango,0016,Quilamula,222,93,95,82,21
+17,Morelos,025,Tlaquiltenango,0017,Rancho Viejo,35,4,10,17,2
+17,Morelos,025,Tlaquiltenango,0018,San José de Pala,139,13,62,36,12
+17,Morelos,025,Tlaquiltenango,0019,Santiopa,39,3,15,11,2
+17,Morelos,025,Tlaquiltenango,0020,Valle de Vázquez (Los Hornos),355,150,182,72,42
+17,Morelos,025,Tlaquiltenango,0021,Xicatlacotla,108,0,101,44,8
+17,Morelos,025,Tlaquiltenango,0022,Xochipala,41,6,24,19,1
+17,Morelos,025,Tlaquiltenango,0023,Alfredo V. Bonfil (Chacampalco),603,274,528,269,125
+17,Morelos,025,Tlaquiltenango,0025,Colonia 3 de Mayo (El Tepiolol),228,82,201,77,46
+17,Morelos,025,Tlaquiltenango,0028,La Maroma,6,1,4,3,1
+17,Morelos,025,Tlaquiltenango,0031,Unidad Habitacional Emiliano Zapata,107,4,93,38,5
+17,Morelos,025,Tlaquiltenango,0038,Los Dormidos,10,1,9,2,0
+17,Morelos,025,Tlaquiltenango,0039,Ixtoluca,*,*,*,*,*
+17,Morelos,025,Tlaquiltenango,0041,Paso de Palapa,4,1,4,0,1
+17,Morelos,025,Tlaquiltenango,0042,Las Bóvedas,83,0,73,17,3
+17,Morelos,025,Tlaquiltenango,0043,Las Carpas,112,12,97,74,13
+17,Morelos,025,Tlaquiltenango,0045,Los Manantiales,*,*,*,*,*
+17,Morelos,025,Tlaquiltenango,0047,Campos del Texcal (Texcal la Joya),76,41,69,46,21
+17,Morelos,025,Tlaquiltenango,0050,Granja Velarde (Campo el Texcal el Alto),7,5,8,2,6
+17,Morelos,025,Tlaquiltenango,0052,Colonia Manzanarez,5,2,5,2,2
+17,Morelos,025,Tlaquiltenango,0053,Palo Grande,232,35,194,50,18
+17,Morelos,025,Tlaquiltenango,0054,Puente de la Cantora,3,3,3,3,2
+17,Morelos,025,Tlaquiltenango,0061,El Amate,*,*,*,*,*
+17,Morelos,025,Tlaquiltenango,0062,El Calabazal (Rancho la Ceiba),4,0,4,2,0
+17,Morelos,025,Tlaquiltenango,0063,Callejón Viejo de la Maroma,13,4,12,6,3
+17,Morelos,025,Tlaquiltenango,0065,Los Cuatecomates (El Polvorín),*,*,*,*,*
+17,Morelos,025,Tlaquiltenango,0070,Aguaje Zacualpan (El Paraje),*,*,*,*,*
+17,Morelos,025,Tlaquiltenango,0072,La Bomba,*,*,*,*,*
+17,Morelos,025,Tlaquiltenango,0077,Campo el Huajal,4,0,5,1,0
+17,Morelos,025,Tlaquiltenango,0078,Los Muros,*,*,*,*,*
+17,Morelos,025,Tlaquiltenango,0081,Los Presidentes,57,27,52,18,25
+17,Morelos,025,Tlaquiltenango,0084,Fraccionamiento Villas de Jojutla,541,386,529,283,331
+17,Morelos,025,Tlaquiltenango,0087,La Mesa del Huayacán,9,2,8,2,1
+17,Morelos,025,Tlaquiltenango,9998,Localidades de una vivienda,4,1,4,2,1
+17,Morelos,025,Tlaquiltenango,9999,Localidades de dos viviendas,2,1,4,1,1
+17,Morelos,026,Tlayacapan,0000,Total del Municipio,5007,2018,4588,2229,1265
+17,Morelos,026,Tlayacapan,0001,Tlayacapan,2137,1072,1959,1187,697
+17,Morelos,026,Tlayacapan,0002,Amatlipac (San Agustín Amatlipac),191,103,165,77,41
+17,Morelos,026,Tlayacapan,0003,Cuauhtempan (San Andrés Cuauhtempan),426,135,389,224,89
+17,Morelos,026,Tlayacapan,0004,Los Laureles (San José de los Laureles),422,93,370,204,47
+17,Morelos,026,Tlayacapan,0005,Ex-Hacienda Pantitlán,47,14,46,17,7
+17,Morelos,026,Tlayacapan,0006,Nacatongo,307,90,266,93,61
+17,Morelos,026,Tlayacapan,0007,El Ahuehuete,48,19,40,12,7
+17,Morelos,026,Tlayacapan,0008,Las Vivianas,249,92,224,67,58
+17,Morelos,026,Tlayacapan,0009,Emiliano Zapata,110,32,104,42,19
+17,Morelos,026,Tlayacapan,0010,Jardines de Tlayacapan,57,42,55,30,33
+17,Morelos,026,Tlayacapan,0013,Paraíso del Sol [Club Privado],*,*,*,*,*
+17,Morelos,026,Tlayacapan,0014,Los Ciruelos,5,2,5,1,3
+17,Morelos,026,Tlayacapan,0017,Colonia Texalo (La Cerámica),94,37,89,34,30
+17,Morelos,026,Tlayacapan,0018,Colonia 3 de Mayo,55,10,50,8,6
+17,Morelos,026,Tlayacapan,0019,Valle de Oaxtepec,27,12,26,9,9
+17,Morelos,026,Tlayacapan,0020,Colonia Puente Pantitlán,151,45,146,35,22
+17,Morelos,026,Tlayacapan,0022,Unidad Habitacional Lázaro Cárdenas,44,15,41,13,12
+17,Morelos,026,Tlayacapan,0023,Pedregal Tlalli,18,10,17,10,1
+17,Morelos,026,Tlayacapan,0025,Las Calandrias,*,*,*,*,*
+17,Morelos,026,Tlayacapan,0026,Rancho el Bebedero,9,0,9,1,1
+17,Morelos,026,Tlayacapan,0027,Fraccionamiento Tepozteco la Cortina,*,*,*,*,*
+17,Morelos,026,Tlayacapan,0031,La Copalera,21,5,20,6,6
+17,Morelos,026,Tlayacapan,0032,Cruz Blanca,8,4,10,5,5
+17,Morelos,026,Tlayacapan,0034,Colonia Joyas del Astillero,23,14,25,9,6
+17,Morelos,026,Tlayacapan,0037,Parada Casa Blanca,*,*,*,*,*
+17,Morelos,026,Tlayacapan,0039,Loma del Copal Redondo,*,*,*,*,*
+17,Morelos,026,Tlayacapan,0040,Rancho Correa,18,8,18,11,7
+17,Morelos,026,Tlayacapan,0041,Rancho de Cartón Kilómetro 10,16,3,15,2,4
+17,Morelos,026,Tlayacapan,0042,Rancho Teja,4,1,4,3,1
+17,Morelos,026,Tlayacapan,0043,Tezontlati,*,*,*,*,*
+17,Morelos,026,Tlayacapan,0044,Unidad Habitacional Revolución XXI,34,14,32,8,10
+17,Morelos,026,Tlayacapan,0046,Camino Real los Reyes,4,2,4,2,1
+17,Morelos,026,Tlayacapan,0047,El Golán,167,75,151,20,30
+17,Morelos,026,Tlayacapan,0048,Colonia el Partidor,45,21,44,17,15
+17,Morelos,026,Tlayacapan,0049,La Mixtepec,13,4,12,4,1
+17,Morelos,026,Tlayacapan,0050,Colonia Pala,32,9,30,13,7
+17,Morelos,026,Tlayacapan,0051,Fraccionamiento Lomas del Paraíso del Sol,7,2,7,3,1
+17,Morelos,026,Tlayacapan,0052,Colonia Jericó,120,7,112,39,7
+17,Morelos,026,Tlayacapan,0053,Fraccionamiento Villas de San Juan,*,*,*,*,*
+17,Morelos,026,Tlayacapan,0054,3 de Mayo,6,3,6,4,1
+17,Morelos,026,Tlayacapan,0055,El Temazcal,4,2,4,3,3
+17,Morelos,026,Tlayacapan,0056,La Loma,3,2,4,1,0
+17,Morelos,026,Tlayacapan,0058,Xicotla,3,3,3,2,2
+17,Morelos,026,Tlayacapan,0059,Colonia el Partidor (El Capulín),63,8,61,9,9
+17,Morelos,026,Tlayacapan,0060,Maninaltepec,6,1,9,1,0
+17,Morelos,026,Tlayacapan,0061,Huelpalcaltitla,*,*,*,*,*
+17,Morelos,026,Tlayacapan,0062,Villa de Lobos,4,3,5,2,4
+17,Morelos,026,Tlayacapan,9998,Localidades de una vivienda,4,3,5,1,1
+17,Morelos,026,Tlayacapan,9999,Localidades de dos viviendas,5,1,6,0,1
+17,Morelos,027,Totolapan,0000,Total del Municipio,3531,917,3140,1871,539
+17,Morelos,027,Totolapan,0001,Totolapan,1907,532,1694,1036,333
+17,Morelos,027,Totolapan,0002,Ahuatlán (Asunción Ahuatlán),226,33,207,121,33
+17,Morelos,027,Totolapan,0003,La Cañada (San Sebastián),175,46,145,98,30
+17,Morelos,027,Totolapan,0004,El Fuerte (San Miguel),102,16,89,47,6
+17,Morelos,027,Totolapan,0005,Nepopualco,728,215,656,388,76
+17,Morelos,027,Totolapan,0006,Villa Nicolás Zapata,108,4,75,51,5
+17,Morelos,027,Totolapan,0007,Tepetlixpita,77,27,71,38,24
+17,Morelos,027,Totolapan,0009,Paraíso del Conquistador,2,1,2,1,1
+17,Morelos,027,Totolapan,0010,Fraccionamiento Palestina,9,5,9,7,4
+17,Morelos,027,Totolapan,0012,El Crucero de Nepopualco,15,4,13,5,3
+17,Morelos,027,Totolapan,0013,Colinas del Paraíso [Fraccionamiento],*,*,*,*,*
+17,Morelos,027,Totolapan,0014,El Jagüey de las Marzanas,15,3,16,6,1
+17,Morelos,027,Totolapan,0016,Rancho Buenavista (Hacienda de Buenavista),*,*,*,*,*
+17,Morelos,027,Totolapan,0017,El Huejote,3,1,3,0,1
+17,Morelos,027,Totolapan,0018,Rancho las Marzanas,*,*,*,*,*
+17,Morelos,027,Totolapan,0019,Rancho los Durmientes,3,2,3,2,3
+17,Morelos,027,Totolapan,0020,Zacatepec,0,0,0,0,0
+17,Morelos,027,Totolapan,0021,Barrio San Marcos (El Moral),32,4,29,18,1
+17,Morelos,027,Totolapan,0022,Rancho el Moral,3,0,3,1,1
+17,Morelos,027,Totolapan,0024,Ninguno (Entrada a la ESCA),45,8,44,15,4
+17,Morelos,027,Totolapan,0025,El Llanito,12,3,16,6,3
+17,Morelos,027,Totolapan,0026,El Magueyal,*,*,*,*,*
+17,Morelos,027,Totolapan,0028,Rancho Temecatitla,4,0,7,1,0
+17,Morelos,027,Totolapan,0029,Axalco,6,2,6,1,2
+17,Morelos,027,Totolapan,0030,Fraccionamiento Hacienda San Diego Huixtla,11,1,9,4,1
+17,Morelos,027,Totolapan,0032,El Chilar,*,*,*,*,*
+17,Morelos,027,Totolapan,0033,Rancho la Aurora,*,*,*,*,*
+17,Morelos,027,Totolapan,0035,Ampliación la Purísima,42,7,35,23,4
+17,Morelos,027,Totolapan,0037,El Entronque a Nepopualco,*,*,*,*,*
+17,Morelos,027,Totolapan,9998,Localidades de una vivienda,2,1,4,1,1
+17,Morelos,027,Totolapan,9999,Localidades de dos viviendas,4,2,4,1,2
+17,Morelos,028,Xochitepec,0000,Total del Municipio,19515,9708,17513,6300,5999
+17,Morelos,028,Xochitepec,0001,Xochitepec,6133,3577,5556,2461,2157
+17,Morelos,028,Xochitepec,0002,Alpuyeca,2064,845,1706,552,473
+17,Morelos,028,Xochitepec,0003,Atlacholoaya,1137,285,986,153,131
+17,Morelos,028,Xochitepec,0005,Francisco Villa,460,225,416,125,160
+17,Morelos,028,Xochitepec,0006,Chiconcuac,2082,1169,1836,702,725
+17,Morelos,028,Xochitepec,0012,Palo Bolero,9,8,8,5,5
+17,Morelos,028,Xochitepec,0015,Coaxcomac,55,21,46,24,15
+17,Morelos,028,Xochitepec,0016,El Kilómetro 3,19,6,18,7,2
+17,Morelos,028,Xochitepec,0018,Ampliación la Pintora,48,13,44,16,10
+17,Morelos,028,Xochitepec,0020,El Pedregal,31,13,29,10,7
+17,Morelos,028,Xochitepec,0021,Santa Fe,127,109,123,89,97
+17,Morelos,028,Xochitepec,0029,Campo los Tamarindos (Los Cuartos),10,0,5,1,1
+17,Morelos,028,Xochitepec,0030,Unidad Habitacional José María Morelos y Pavón,3080,1454,2798,830,718
+17,Morelos,028,Xochitepec,0033,Unidad Piscícola Atlacholoaya,30,7,28,3,6
+17,Morelos,028,Xochitepec,0034,Carretera a Atlacholoaya,92,21,81,17,18
+17,Morelos,028,Xochitepec,0037,Campo el Burro,25,18,24,8,7
+17,Morelos,028,Xochitepec,0039,Colonia el Crucero de Atlacholoaya,65,18,61,8,5
+17,Morelos,028,Xochitepec,0040,El Crucero (El Kilómetro 100),8,6,8,5,1
+17,Morelos,028,Xochitepec,0045,Campo Huitzilac,*,*,*,*,*
+17,Morelos,028,Xochitepec,0046,Unidad Habitacional General Lázaro Cárdenas [Ingenio Emiliano Zapata],*,*,*,*,*
+17,Morelos,028,Xochitepec,0048,Los Regadillos (El Carrizal),5,1,5,1,0
+17,Morelos,028,Xochitepec,0051,Los Laureles (Barranca Ojo de Agua),20,7,19,9,1
+17,Morelos,028,Xochitepec,0052,Ahitec,18,2,14,1,1
+17,Morelos,028,Xochitepec,0055,El Paraíso [Trailer Park],12,5,12,3,2
+17,Morelos,028,Xochitepec,0058,El Aguacate [Laboratorio],24,12,22,9,11
+17,Morelos,028,Xochitepec,0059,El Anacahuite,6,3,6,1,2
+17,Morelos,028,Xochitepec,0060,Atzunco,24,3,20,2,1
+17,Morelos,028,Xochitepec,0062,Camino a la Ventana,21,4,19,4,4
+17,Morelos,028,Xochitepec,0063,Campo Ameyalco,75,22,69,11,14
+17,Morelos,028,Xochitepec,0064,Campo el Bolón,2,1,3,1,1
+17,Morelos,028,Xochitepec,0067,Fraccionamiento los Laureles,285,199,282,112,151
+17,Morelos,028,Xochitepec,0068,El Capiri (Las Palmas),44,11,27,10,7
+17,Morelos,028,Xochitepec,0069,Colonia la Pintora,148,42,133,25,22
+17,Morelos,028,Xochitepec,0070,Los Estanques,0,0,3,0,0
+17,Morelos,028,Xochitepec,0071,La Guamuchilera,95,17,83,3,6
+17,Morelos,028,Xochitepec,0072,Loma de Enmedio (Loma Bonita),3,1,2,2,0
+17,Morelos,028,Xochitepec,0073,Loma el Encanto,56,8,53,8,7
+17,Morelos,028,Xochitepec,0074,Loma del Tepehuaje,3,0,3,0,1
+17,Morelos,028,Xochitepec,0075,Plan de Tlazala,7,2,6,2,1
+17,Morelos,028,Xochitepec,0076,La Presa,4,0,3,1,0
+17,Morelos,028,Xochitepec,0077,El Sámano,5,3,6,2,3
+17,Morelos,028,Xochitepec,0078,Colonia Santa Cruz,30,8,27,1,5
+17,Morelos,028,Xochitepec,0079,Colonia Ampliación 3 de Mayo,162,54,145,35,25
+17,Morelos,028,Xochitepec,0080,Tierra Verde,*,*,*,*,*
+17,Morelos,028,Xochitepec,0081,Ampliación Miguel Hidalgo,27,14,27,12,8
+17,Morelos,028,Xochitepec,0084,Campo los Olivos,30,12,26,12,6
+17,Morelos,028,Xochitepec,0085,Colonia Loma Bonita,3,1,2,0,0
+17,Morelos,028,Xochitepec,0086,Colonia 3 de Mayo (El Puente),3,0,2,2,0
+17,Morelos,028,Xochitepec,0087,La Esperanza,241,95,210,37,57
+17,Morelos,028,Xochitepec,0090,Lomas del Manantial,10,5,10,2,2
+17,Morelos,028,Xochitepec,0092,Campo el Corazón,5,2,5,2,1
+17,Morelos,028,Xochitepec,0093,Campo la Leona,13,8,12,5,6
+17,Morelos,028,Xochitepec,0094,Campo Solís,56,16,54,9,10
+17,Morelos,028,Xochitepec,0095,La Glorieta (El Zacatal),4,1,4,2,1
+17,Morelos,028,Xochitepec,0096,Loma Bonita,*,*,*,*,*
+17,Morelos,028,Xochitepec,0097,Unidad Jardines de Xochitepec,80,61,73,42,36
+17,Morelos,028,Xochitepec,0098,Unidad Mariano Matamoros,3,1,3,1,2
+17,Morelos,028,Xochitepec,0100,Colonia Acoculco (La Cruz),46,7,40,8,4
+17,Morelos,028,Xochitepec,0101,Colonia la Cruz,7,3,6,1,3
+17,Morelos,028,Xochitepec,0102,Ampliación Cazahuatera,5,0,3,1,0
+17,Morelos,028,Xochitepec,0103,Ampliación el Calvario,34,4,32,11,5
+17,Morelos,028,Xochitepec,0104,Villas de Xochitepec,1089,754,1047,515,612
+17,Morelos,028,Xochitepec,0105,Benito Juárez (La Calera),22,11,21,4,8
+17,Morelos,028,Xochitepec,0106,Campo Canela,53,19,49,9,9
+17,Morelos,028,Xochitepec,0107,Campo Casa Grande,10,1,10,3,3
+17,Morelos,028,Xochitepec,0108,Campo la Tehuixtlera,19,6,17,3,3
+17,Morelos,028,Xochitepec,0109,Colonia Lázaro Cárdenas,4,0,4,0,0
+17,Morelos,028,Xochitepec,0110,Campo San Rafael,156,53,129,23,48
+17,Morelos,028,Xochitepec,0111,Colonia las Flores,222,66,206,30,36
+17,Morelos,028,Xochitepec,0112,Las Palmas,21,2,21,11,0
+17,Morelos,028,Xochitepec,0113,Real del Puente (El Gallito),10,5,8,3,4
+17,Morelos,028,Xochitepec,0114,San Francisco,41,15,36,12,9
+17,Morelos,028,Xochitepec,0115,Xochitepec,27,16,26,10,9
+17,Morelos,028,Xochitepec,0117,Ninguno [Centro de Readaptación Social de Atlacholoaya],0,0,2,0,0
+17,Morelos,028,Xochitepec,0118,Colonia San José,23,3,20,2,2
+17,Morelos,028,Xochitepec,0119,Campo la Calavera,11,6,11,0,0
+17,Morelos,028,Xochitepec,0120,Colonia Humberto Gutiérrez Corona,208,11,163,18,12
+17,Morelos,028,Xochitepec,0121,Fraccionamiento Cumbres del Campestre,155,73,151,64,76
+17,Morelos,028,Xochitepec,0122,Fraccionamiento Solares,141,103,140,76,98
+17,Morelos,028,Xochitepec,0124,Real Santa Fe,179,128,178,102,123
+17,Morelos,028,Xochitepec,0125,Buenavista,24,2,18,7,2
+17,Morelos,028,Xochitepec,0126,Vista Hermosa,*,*,*,*,*
+17,Morelos,028,Xochitepec,0127,Cerro del Metzontzin,0,0,3,0,0
+17,Morelos,028,Xochitepec,0129,La Paz,*,*,*,*,*
+17,Morelos,028,Xochitepec,9998,Localidades de una vivienda,*,*,*,*,*
+17,Morelos,028,Xochitepec,9999,Localidades de dos viviendas,8,3,8,1,1
+17,Morelos,029,Yautepec,0000,Total del Municipio,30273,14269,27113,10025,9184
+17,Morelos,029,Yautepec,0001,Yautepec de Zaragoza,12805,6485,11330,4392,4293
+17,Morelos,029,Yautepec,0003,Los Arcos,1765,1005,1599,729,702
+17,Morelos,029,Yautepec,0004,El Caracol (Campo Chiquito),103,28,94,32,18
+17,Morelos,029,Yautepec,0005,Cocoyoc,2921,1540,2646,1065,938
+17,Morelos,029,Yautepec,0007,Ignacio Bastida (Santa Catarina Tlayca),304,132,257,115,75
+17,Morelos,029,Yautepec,0008,Itzamatitlán,388,156,345,99,115
+17,Morelos,029,Yautepec,0010,Colonia Miguel Hidalgo (Los Cuartos),113,57,108,30,24
+17,Morelos,029,Yautepec,0011,La Nopalera,286,48,228,14,18
+17,Morelos,029,Yautepec,0012,Oacalco,752,349,655,310,256
+17,Morelos,029,Yautepec,0013,Oaxtepec,2190,1295,2019,934,861
+17,Morelos,029,Yautepec,0014,San Isidro,316,112,281,105,68
+17,Morelos,029,Yautepec,0021,Diego Ruiz,65,24,57,23,18
+17,Morelos,029,Yautepec,0024,La Joya,3822,1806,3428,1064,971
+17,Morelos,029,Yautepec,0025,Lázaro Cárdenas (El Empalme),420,125,383,114,92
+17,Morelos,029,Yautepec,0030,Campo los Limones,1,0,3,1,0
+17,Morelos,029,Yautepec,0033,Colonia Francisco I. Madero (La Nopalera),53,19,43,12,10
+17,Morelos,029,Yautepec,0044,El Vado de Oacalco,4,2,4,1,3
+17,Morelos,029,Yautepec,0058,Colonia el Ángel (Kilómetro 33),6,3,8,3,4
+17,Morelos,029,Yautepec,0063,El Jagüey,*,*,*,*,*
+17,Morelos,029,Yautepec,0068,El Caudillo del Sur,213,43,194,41,24
+17,Morelos,029,Yautepec,0069,Ampliación Vicente Guerrero,94,16,83,9,16
+17,Morelos,029,Yautepec,0072,San Pablo,13,5,12,6,6
+17,Morelos,029,Yautepec,0074,El Rocío,27,6,24,6,8
+17,Morelos,029,Yautepec,0076,Barranca del Muerto,16,1,16,5,4
+17,Morelos,029,Yautepec,0077,Pozo las Victorias,9,0,8,5,1
+17,Morelos,029,Yautepec,0079,Corral Grande,302,97,286,109,68
+17,Morelos,029,Yautepec,0080,Colonia Ejidal Tezoquipa,23,9,21,7,9
+17,Morelos,029,Yautepec,0081,El Zarco,201,67,164,33,34
+17,Morelos,029,Yautepec,0086,El Copalar,102,18,91,21,2
+17,Morelos,029,Yautepec,0087,Campo Ixtonclal,60,19,50,7,11
+17,Morelos,029,Yautepec,0091,Los Ojos de Ahuilican,3,2,3,1,3
+17,Morelos,029,Yautepec,0092,Lucio Moreno,68,28,67,17,13
+17,Morelos,029,Yautepec,0094,El Barrial Viejo,*,*,*,*,*
+17,Morelos,029,Yautepec,0095,Campo Apanquetzalco,14,6,13,5,5
+17,Morelos,029,Yautepec,0096,Campo Chamilpa,3,0,3,0,0
+17,Morelos,029,Yautepec,0097,Campo Chirimoyo,17,0,14,3,2
+17,Morelos,029,Yautepec,0098,Campo Coatetelco,2,2,2,2,0
+17,Morelos,029,Yautepec,0099,Campo de los Héroes,12,7,12,3,4
+17,Morelos,029,Yautepec,0101,Campo el Barrial,7,4,7,5,2
+17,Morelos,029,Yautepec,0103,Campo el Marqués,17,7,16,8,8
+17,Morelos,029,Yautepec,0104,Campo el Michate,15,6,14,3,4
+17,Morelos,029,Yautepec,0105,Campo el Partidor,25,17,22,10,8
+17,Morelos,029,Yautepec,0106,Campo Grande Yautepec,18,4,15,1,1
+17,Morelos,029,Yautepec,0107,Campo Huauzopa,6,0,5,0,0
+17,Morelos,029,Yautepec,0108,Tabachines,185,76,170,47,41
+17,Morelos,029,Yautepec,0109,Campo la Zona,10,0,10,5,2
+17,Morelos,029,Yautepec,0110,Campo los Baños,*,*,*,*,*
+17,Morelos,029,Yautepec,0111,Campo los Fresnos,18,5,18,5,6
+17,Morelos,029,Yautepec,0113,Conjunto Tepetlixpa,36,18,33,13,16
+17,Morelos,029,Yautepec,0115,Curva Melón Zacate,35,18,34,20,8
+17,Morelos,029,Yautepec,0117,El Fortín,49,10,46,20,3
+17,Morelos,029,Yautepec,0119,Granja Regina (Tierra Blanca),56,12,51,8,8
+17,Morelos,029,Yautepec,0120,Granjas Agrícolas,36,9,32,10,5
+17,Morelos,029,Yautepec,0122,Jovito Serrano,34,11,30,7,4
+17,Morelos,029,Yautepec,0125,El Nixcomil,6,3,7,3,3
+17,Morelos,029,Yautepec,0126,El Basurero,7,0,6,2,0
+17,Morelos,029,Yautepec,0127,Huertos el Mirador,18,2,18,7,2
+17,Morelos,029,Yautepec,0128,Campo el Cura,*,*,*,*,*
+17,Morelos,029,Yautepec,0129,Rancho el Toro,14,0,12,2,0
+17,Morelos,029,Yautepec,0133,Campo la Tehuixtlera,57,5,57,7,3
+17,Morelos,029,Yautepec,0135,Ampliación el Capulín,38,11,36,7,8
+17,Morelos,029,Yautepec,0136,Ampliación los Arcos,136,45,123,38,24
+17,Morelos,029,Yautepec,0137,Ampliación Álvaro Leonel (Revolución del Sur),77,6,62,16,5
+17,Morelos,029,Yautepec,0138,Ampliación Jacarandas,29,7,24,9,3
+17,Morelos,029,Yautepec,0139,Ampliación Paracas,85,17,76,12,16
+17,Morelos,029,Yautepec,0140,Emiliano Zapata (Palo Mocho),95,35,90,41,11
+17,Morelos,029,Yautepec,0141,La Laguna,69,17,65,10,7
+17,Morelos,029,Yautepec,0142,Ampliación Atlihuayan,34,3,29,5,4
+17,Morelos,029,Yautepec,0143,Ampliación Lomas del Real,29,3,25,2,4
+17,Morelos,029,Yautepec,0144,Ampliación San Juanito,45,10,41,2,7
+17,Morelos,029,Yautepec,0146,Colonia Paracas,53,13,49,19,10
+17,Morelos,029,Yautepec,0149,Fraccionamiento Jacarandas,41,30,38,23,20
+17,Morelos,029,Yautepec,0150,Fraccionamiento Real de Oaxtepec,5,3,5,1,2
+17,Morelos,029,Yautepec,0152,Colonia 10 de Abril,51,18,48,17,17
+17,Morelos,029,Yautepec,0153,El Potrero,7,2,6,2,2
+17,Morelos,029,Yautepec,0154,Rancho las Iguanas,16,3,15,5,2
+17,Morelos,029,Yautepec,0155,Rancho los Limones,*,*,*,*,*
+17,Morelos,029,Yautepec,0157,Campo Nuevo,*,*,*,*,*
+17,Morelos,029,Yautepec,0158,Emiliano Zapata (Casahuates),387,47,354,70,16
+17,Morelos,029,Yautepec,0159,Campo el Mirador,4,2,4,2,2
+17,Morelos,029,Yautepec,0160,Campo el Suceso,38,17,29,10,11
+17,Morelos,029,Yautepec,0161,Campo los Luises,18,11,18,6,12
+17,Morelos,029,Yautepec,0162,Colonia Santa Lucía (Ampliación Itzamatitlán),33,7,23,5,9
+17,Morelos,029,Yautepec,0165,Ampliación Santa Rosa,106,53,99,28,30
+17,Morelos,029,Yautepec,0167,Campo el Paredón,4,0,4,0,1
+17,Morelos,029,Yautepec,0168,José Ortiz (San Martín),19,8,17,4,3
+17,Morelos,029,Yautepec,0169,Kilómetro 32,36,17,33,15,13
+17,Morelos,029,Yautepec,0170,La Coaxiolotera,3,1,3,1,0
+17,Morelos,029,Yautepec,0171,Colonia Vicente Estrada Cajigal,133,38,126,39,36
+17,Morelos,029,Yautepec,0172,El Fortín Dos,14,0,15,4,0
+17,Morelos,029,Yautepec,0173,Rancho Cuachixolotera,377,68,361,71,59
+17,Morelos,029,Yautepec,0174,Fraccionamiento la Morena,3,0,3,2,0
+17,Morelos,029,Yautepec,0175,El Aguaje,7,1,6,1,0
+17,Morelos,029,Yautepec,0176,Fraccionamiento los Héroes,5,0,6,1,0
+17,Morelos,029,Yautepec,0177,Campo Joya de las Víboras,5,0,2,1,0
+17,Morelos,029,Yautepec,0178,Campo los Huajes,6,5,6,0,2
+17,Morelos,029,Yautepec,0179,Colonia Campo la Providencia,92,46,89,38,41
+17,Morelos,029,Yautepec,0180,Colonia Tetillas (Loma Larga),16,0,13,4,2
+17,Morelos,029,Yautepec,0181,Oacalco,7,2,7,4,2
+17,Morelos,029,Yautepec,0182,Los Mangos [Residencial],3,3,3,2,3
+17,Morelos,029,Yautepec,9998,Localidades de una vivienda,5,1,6,2,0
+17,Morelos,030,Yecapixtla,0000,Total del Municipio,14476,5835,12863,3168,3527
+17,Morelos,030,Yecapixtla,0001,Yecapixtla,4751,1930,4212,987,1321
+17,Morelos,030,Yecapixtla,0002,Achichipico,624,184,492,139,93
+17,Morelos,030,Yecapixtla,0004,La Estación de Yecapixtla,16,2,16,1,5
+17,Morelos,030,Yecapixtla,0005,Huexca,317,236,275,59,65
+17,Morelos,030,Yecapixtla,0006,Los Limones,157,59,126,31,23
+17,Morelos,030,Yecapixtla,0008,Juan Morales,3685,1966,3308,1121,1223
+17,Morelos,030,Yecapixtla,0009,Yecapixteca,327,55,300,63,42
+17,Morelos,030,Yecapixtla,0010,Pazulco,188,24,143,25,19
+17,Morelos,030,Yecapixtla,0011,Piedra de la Cruz,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0014,Tecajec,412,179,360,54,27
+17,Morelos,030,Yecapixtla,0015,Texcala,483,57,424,79,31
+17,Morelos,030,Yecapixtla,0016,Tezontetelco,65,0,63,10,6
+17,Morelos,030,Yecapixtla,0017,Tlamomulco,117,16,98,11,15
+17,Morelos,030,Yecapixtla,0018,Xochitlán,736,227,593,68,109
+17,Morelos,030,Yecapixtla,0020,Los Capulines,92,3,84,4,2
+17,Morelos,030,Yecapixtla,0021,Adolfo López Mateos,158,39,141,32,24
+17,Morelos,030,Yecapixtla,0022,Agua Zarca,5,2,5,1,0
+17,Morelos,030,Yecapixtla,0023,Los Chichicastles,39,11,37,11,5
+17,Morelos,030,Yecapixtla,0024,El Izote,16,8,16,4,3
+17,Morelos,030,Yecapixtla,0026,Zacahuacatla,21,2,19,3,3
+17,Morelos,030,Yecapixtla,0031,La Hacienda,19,0,20,2,2
+17,Morelos,030,Yecapixtla,0032,Loma Bonita,278,102,264,51,66
+17,Morelos,030,Yecapixtla,0037,Colonia Paraíso Escondido,208,92,203,53,66
+17,Morelos,030,Yecapixtla,0038,Rancho el Paredón,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0040,Mixtlalcingo,677,263,634,120,127
+17,Morelos,030,Yecapixtla,0041,Rancho 55 (Campo el Pochote),9,6,9,2,2
+17,Morelos,030,Yecapixtla,0043,Campo Piedra Colorada,52,15,48,10,8
+17,Morelos,030,Yecapixtla,0045,Los Ciruelos,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0046,Rancho la Cruz,0,0,2,0,0
+17,Morelos,030,Yecapixtla,0047,Fraccionamiento Xalpa,48,20,45,8,16
+17,Morelos,030,Yecapixtla,0050,Marino Galicia,3,0,2,0,0
+17,Morelos,030,Yecapixtla,0051,El Matadero,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0052,Rancho la Orquídea,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0055,Rancho Piedra de la Cruz,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0057,Valle Xalpa (El Crucero del Libramiento),93,27,84,20,28
+17,Morelos,030,Yecapixtla,0059,Los Amates,46,17,46,10,6
+17,Morelos,030,Yecapixtla,0060,Noche Buena,30,17,29,7,12
+17,Morelos,030,Yecapixtla,0062,Campo el Indio,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0065,Campo Nuevo,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0068,Campo Amazongo,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0069,Campo Zacanopal,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0070,Punta del Valle [Club Residencial],6,5,6,4,5
+17,Morelos,030,Yecapixtla,0071,Rancho Puente Negro,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0075,Rancho las Huertas,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0076,Rancho del Carmen,12,4,12,4,5
+17,Morelos,030,Yecapixtla,0078,Rancho Rodeo,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0085,Rancho Galicia Cázares,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0087,Rancho Humberto Yáñez,1,2,3,0,0
+17,Morelos,030,Yecapixtla,0092,Rancho Valdepeña,4,0,3,0,0
+17,Morelos,030,Yecapixtla,0093,Campo de las Yeguas,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0094,Colonia Girasoles (Campo el Guaje),143,71,140,37,41
+17,Morelos,030,Yecapixtla,0097,Tlacotitlán,159,70,157,50,55
+17,Morelos,030,Yecapixtla,0098,Cerro del Temecate,44,8,42,13,21
+17,Morelos,030,Yecapixtla,0099,Colonia Aquiles Serdán,74,12,46,10,15
+17,Morelos,030,Yecapixtla,0100,Colonia Paraíso las Flores,117,59,116,18,7
+17,Morelos,030,Yecapixtla,0102,Rancho Santa Teresa,40,4,40,9,5
+17,Morelos,030,Yecapixtla,0103,Xalpa,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0105,Puente Cajón,9,3,8,1,2
+17,Morelos,030,Yecapixtla,0114,La Noria Imperial,*,*,*,*,*
+17,Morelos,030,Yecapixtla,0115,Ampliación Yecapixteca,156,25,152,35,19
+17,Morelos,030,Yecapixtla,0116,Xochitlán,27,9,25,1,2
+17,Morelos,030,Yecapixtla,0117,Joyas de Salazar,*,*,*,*,*
+17,Morelos,030,Yecapixtla,9998,Localidades de una vivienda,9,3,11,0,1
+17,Morelos,030,Yecapixtla,9999,Localidades de dos viviendas,3,1,4,0,0
+17,Morelos,031,Zacatepec,0000,Total del Municipio,10504,7002,9396,5844,4008
+17,Morelos,031,Zacatepec,0001,Zacatepec de Hidalgo,6281,4455,5551,3597,2369
+17,Morelos,031,Zacatepec,0002,San Nicolás Galeana,3290,2121,3009,1872,1357
+17,Morelos,031,Zacatepec,0005,San Antonio Chiverías,371,164,321,144,110
+17,Morelos,031,Zacatepec,0011,Colonia Poza Honda,91,20,77,17,13
+17,Morelos,031,Zacatepec,0015,Colonia de los Maestros,11,1,11,4,2
+17,Morelos,031,Zacatepec,0017,Buenavista (Kilómetro 1.5),95,47,88,35,28
+17,Morelos,031,Zacatepec,0018,José Manuel Estrada [Casa Hogar],3,3,3,3,3
+17,Morelos,031,Zacatepec,0019,Fábrica de Hielo,21,7,19,12,12
+17,Morelos,031,Zacatepec,0022,Colonia Guadalupe Victoria,42,27,41,25,19
+17,Morelos,031,Zacatepec,0023,La Quebradora,*,*,*,*,*
+17,Morelos,031,Zacatepec,0027,Ampliación la Quebradora,22,6,21,10,6
+17,Morelos,031,Zacatepec,0029,10 de Abril,87,51,83,49,31
+17,Morelos,031,Zacatepec,0030,Colonia el Paraíso,66,32,59,28,10
+17,Morelos,031,Zacatepec,0031,Rancho los Bigotones,30,20,29,11,12
+17,Morelos,031,Zacatepec,0032,Ampliación Plutarco Elías Calles,5,0,5,1,0
+17,Morelos,031,Zacatepec,0033,El Bonete,6,0,3,0,0
+17,Morelos,031,Zacatepec,0034,Campo de la Presa,45,28,43,24,22
+17,Morelos,031,Zacatepec,0035,Campo las Avillas,8,6,6,2,5
+17,Morelos,031,Zacatepec,0036,Colonia Plan de Ayala,8,5,8,5,5
+17,Morelos,031,Zacatepec,0037,Campo la Victoria,7,4,7,2,3
+17,Morelos,031,Zacatepec,0039,El Platanar,14,4,12,3,1
+17,Morelos,031,Zacatepec,9998,Localidades de una vivienda,*,*,*,*,*
+17,Morelos,032,Zacualpan de Amilpas,0000,Total del Municipio,2812,1050,2235,410,781
+17,Morelos,032,Zacualpan de Amilpas,0001,Zacualpan de Amilpas,1114,518,917,220,365
+17,Morelos,032,Zacualpan de Amilpas,0006,Tlacotepec,1484,486,1133,179,383
+17,Morelos,032,Zacualpan de Amilpas,0010,La Presa (El Cerro de la Era),90,18,73,3,11
+17,Morelos,032,Zacualpan de Amilpas,0012,Barranca Amatzinac,15,3,15,1,6
+17,Morelos,032,Zacualpan de Amilpas,0014,Curiel,*,*,*,*,*
+17,Morelos,032,Zacualpan de Amilpas,0018,Campo San Andrés,*,*,*,*,*
+17,Morelos,032,Zacualpan de Amilpas,0019,La Compuerta,6,2,5,0,1
+17,Morelos,032,Zacualpan de Amilpas,0022,Rancho Vicente Sandoval,*,*,*,*,*
+17,Morelos,032,Zacualpan de Amilpas,0024,Rancho Toribio Rivera,5,1,5,0,0
+17,Morelos,032,Zacualpan de Amilpas,0025,Agua Tepechi,6,0,5,0,0
+17,Morelos,032,Zacualpan de Amilpas,0026,Campo del Anono,3,1,3,0,0
+17,Morelos,032,Zacualpan de Amilpas,0027,Colonia Guadalupe Victoria,70,18,64,4,13
+17,Morelos,032,Zacualpan de Amilpas,0028,Colonia Mariano Escobedo (Campo las Trancas),3,1,2,0,1
+17,Morelos,032,Zacualpan de Amilpas,0029,Las Presas,*,*,*,*,*
+17,Morelos,032,Zacualpan de Amilpas,0031,Campo Potrerillo,*,*,*,*,*
+17,Morelos,032,Zacualpan de Amilpas,0032,Colonia Emiliano Zapata,7,1,7,2,1
+17,Morelos,032,Zacualpan de Amilpas,9998,Localidades de una vivienda,*,*,*,*,*
+17,Morelos,032,Zacualpan de Amilpas,9999,Localidades de dos viviendas,8,1,6,1,0
+17,Morelos,033,Temoac,0000,Total del Municipio,4164,1559,3403,480,1032
+17,Morelos,033,Temoac,0001,Temoac,1718,745,1424,207,507
+17,Morelos,033,Temoac,0002,Amilcingo,975,333,778,117,215
+17,Morelos,033,Temoac,0003,Huazulco,1126,388,919,109,233
+17,Morelos,033,Temoac,0004,Popotlán (Barrio Santo Tomás),239,62,189,31,46
+17,Morelos,033,Temoac,0006,Campo el Limón,28,7,21,3,8
+17,Morelos,033,Temoac,0007,La Joya [Campo],5,2,5,1,3
+17,Morelos,033,Temoac,0008,Los Cuatecomates,6,1,6,0,2
+17,Morelos,033,Temoac,0010,La Normal,7,4,6,3,1
+17,Morelos,033,Temoac,0014,El Tecorralito,1,0,3,0,0
+17,Morelos,033,Temoac,0015,El Puente Nuevo,13,2,9,0,1
+17,Morelos,033,Temoac,0016,Rancho los Caporales,12,6,11,1,6
+17,Morelos,033,Temoac,0017,Barrio San Martín,8,2,7,2,3
+17,Morelos,033,Temoac,0019,Campo las Arenas,13,3,12,4,2
+17,Morelos,033,Temoac,0020,Campo Santa Lucía,8,3,8,1,3
+17,Morelos,033,Temoac,0021,Villarruel [Rancho],*,*,*,*,*
+17,Morelos,033,Temoac,0022,Barrio San Martín,3,1,3,1,1
+17,Morelos,033,Temoac,9999,Localidades de dos viviendas,*,*,*,*,*
+17,Morelos,034,Coatetelco,0000,Total del Municipio,2771,800,2189,583,273
+17,Morelos,034,Coatetelco,0001,Coatetelco Centro,2366,696,1844,478,228
+17,Morelos,034,Coatetelco,0002,Campo Acatzingo,6,1,4,1,0
+17,Morelos,034,Coatetelco,0003,Campo el Llanito,16,13,14,3,3
+17,Morelos,034,Coatetelco,0004,Campo la Candelaria,7,2,7,2,0
+17,Morelos,034,Coatetelco,0005,Colonia 3 de Mayo,51,8,44,11,2
+17,Morelos,034,Coatetelco,0006,Colonia Benito Juárez,21,1,20,1,2
+17,Morelos,034,Coatetelco,0007,Colonia San Isidro,4,1,4,1,0
+17,Morelos,034,Coatetelco,0008,Colonia Santa Fe,4,1,4,1,1
+17,Morelos,034,Coatetelco,0009,El Dique,3,1,3,1,2
+17,Morelos,034,Coatetelco,0010,El Llano,*,*,*,*,*
+17,Morelos,034,Coatetelco,0011,El Muelle,63,11,54,27,3
+17,Morelos,034,Coatetelco,0012,General Pedro Saavedra,79,20,59,13,5
+17,Morelos,034,Coatetelco,0013,La Cuahulotera,2,0,5,0,0
+17,Morelos,034,Coatetelco,0014,Xochicalco,147,45,126,44,27
+17,Morelos,034,Coatetelco,9999,Localidades de dos viviendas,*,*,*,*,*
+17,Morelos,035,Xoxocotla,0000,Total del Municipio,6251,1727,5029,1536,863
+17,Morelos,035,Xoxocotla,0001,Xoxocotla Centro,5339,1607,4320,1428,809
+17,Morelos,035,Xoxocotla,0002,Ampliación Miguel de la Madrid,6,2,6,1,0
+17,Morelos,035,Xoxocotla,0003,Apotla,15,3,11,2,2
+17,Morelos,035,Xoxocotla,0004,Arboledas del Sur,30,1,31,3,2
+17,Morelos,035,Xoxocotla,0005,Camino a la Toma,43,3,28,2,1
+17,Morelos,035,Xoxocotla,0006,Camino de San Juanes,5,1,4,1,0
+17,Morelos,035,Xoxocotla,0007,Campo Anenehuilco,156,8,126,25,11
+17,Morelos,035,Xoxocotla,0008,Campo Corbeta,36,10,27,5,4
+17,Morelos,035,Xoxocotla,0009,Campo los Sauces,5,2,3,1,1
+17,Morelos,035,Xoxocotla,0010,La Pintora,45,4,33,1,3
+17,Morelos,035,Xoxocotla,0011,Campo Xolistla,29,5,26,15,2
+17,Morelos,035,Xoxocotla,0013,Colonia Apozonalco,84,3,57,9,1
+17,Morelos,035,Xoxocotla,0014,Hermosa,9,3,8,2,2
+17,Morelos,035,Xoxocotla,0015,Morelos,6,0,4,1,1
+17,Morelos,035,Xoxocotla,0016,Cerro del Venado,18,3,14,2,1
+17,Morelos,035,Xoxocotla,0017,El Arco,32,5,22,2,1
+17,Morelos,035,Xoxocotla,0018,El Faro,2,0,3,0,1
+17,Morelos,035,Xoxocotla,0019,Fábrica de Mármol (Kilómetro 2),15,6,11,1,0
+17,Morelos,035,Xoxocotla,0020,Las Flores (La Xóchitl),84,11,61,12,6
+17,Morelos,035,Xoxocotla,0021,Loma Linda,19,18,22,3,1
+17,Morelos,035,Xoxocotla,0022,Los Huajes,45,12,28,2,0
+17,Morelos,035,Xoxocotla,0023,Prolongación Benito Juárez,113,5,94,5,3
+17,Morelos,035,Xoxocotla,0025,Tapalehui,34,8,28,4,5
+17,Morelos,035,Xoxocotla,0026,Techichilco,9,1,4,0,0
+17,Morelos,035,Xoxocotla,0027,Tecomulco,59,2,42,6,1
+17,Morelos,035,Xoxocotla,0028,Tierra Alta,*,*,*,*,*
+17,Morelos,035,Xoxocotla,0029,Palo Prieto,10,3,12,1,3
+17,Morelos,035,Xoxocotla,0030,Campo San Juanes,*,*,*,*,*
+17,Morelos,035,Xoxocotla,9999,Localidades de dos viviendas,3,1,4,2,2
+17,Morelos,036,Hueyapan,0000,Total del Municipio,1943,449,1674,365,192
+17,Morelos,036,Hueyapan,0001,Barrio de San Miguel,1820,437,1563,346,185
+17,Morelos,036,Hueyapan,0002,Ahuazutlán,*,*,*,*,*
+17,Morelos,036,Hueyapan,0003,Amialtenco,6,0,4,2,0
+17,Morelos,036,Hueyapan,0005,Cerro de Chiconquíhuitl,39,1,36,3,1
+17,Morelos,036,Hueyapan,0006,El Chilar Tepeyehualco,7,0,7,2,0
+17,Morelos,036,Hueyapan,0007,El Chupamirto,4,0,4,0,0
+17,Morelos,036,Hueyapan,0008,El Montecillo,*,*,*,*,*
+17,Morelos,036,Hueyapan,0009,Las Mesas,12,1,11,1,1
+17,Morelos,036,Hueyapan,0010,Matlacotla,11,1,9,2,1
+17,Morelos,036,Hueyapan,0013,Olivar,19,2,15,7,2
+17,Morelos,036,Hueyapan,0014,Tlalcomulco,20,7,20,1,2
+17,Morelos,036,Hueyapan,0015,Tepetomayo,*,*,*,*,*
+17,Morelos,036,Hueyapan,0017,Tlaquexchpanco,*,*,*,*,*
+17,Morelos,036,Hueyapan,0019,Yiganechxco,*,*,*,*,*
+17,Morelos,036,Hueyapan,9998,Localidades de una vivienda,1,0,2,1,0
+17,Morelos,036,Hueyapan,9999,Localidades de dos viviendas,4,0,3,0,0

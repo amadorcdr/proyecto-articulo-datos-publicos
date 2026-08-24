@@ -1,0 +1,17 @@
+FUENTES DE DATOS UTILIZADAS
+============================
+
+1. Instituto Nacional de Estadística y Geografía (INEGI)
+   - Descripción: Organismo público autónomo responsable de generar la información estadística oficial de México.
+   - Datos utilizados: Indicadores de viviendas particulares habitadas del Censo de Población y Vivienda, correspondientes al estado de Morelos.
+   - Variables obtenidas: VPH_C_ELEC, VPH_INTER, VPH_CEL, VPH_STVP, VPH_PC, así como las claves geográficas de entidad, municipio y localidad.
+   - URL: https://www.inegi.org.mx/
+   - Fecha de consulta: (indicar la fecha en que se descargó el dataset)
+   - Licencia: Datos de uso libre y gratuito conforme a la Ley del Sistema Nacional de Información Estadística y Geográfica.
+
+NOTAS
+=====
+
+- Los datos son de carácter público y no contienen información personal sensible.
+- Las cifras marcadas con '*' por el INEGI representan datos confidenciales de localidades con menos de tres viviendas, según las políticas de confidencialidad del organismo.
+- El dataset original se encuentra en la carpeta data/raw/dataset_original.csv del repositorio.
