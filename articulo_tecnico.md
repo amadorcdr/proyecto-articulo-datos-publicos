@@ -1,6 +1,6 @@
-# Clasificación de localidades de Morelos según su nivel de conectividad digital
+# Clasificación de municipios de Morelos según su nivel de conectividad a internet
 
-**Autores:** 
+**Autores:**
 - Estefany Alexa Delgado Heredia
 - Rocio Rodríguez Torres
 - Antonio Garcia Gonzalez
@@ -14,203 +14,132 @@
 
 ## Resumen
 
-En este artículo se presenta un análisis de clasificación supervisada aplicado a localidades del estado de Morelos, México, con el objetivo de determinar si es posible identificar zonas con alta o baja conectividad digital a partir de indicadores de equipamiento tecnológico en viviendas particulares habitadas. Se utilizaron datos públicos del Instituto Nacional de Estadística y Geografía (INEGI), que incluyen variables como la disponibilidad de electricidad, internet, teléfono celular, televisión de paga y computadora. Se construyó una variable objetivo binaria basada en el porcentaje de viviendas con acceso a internet respecto a las que cuentan con electricidad, utilizando un umbral del 30% como criterio de clasificación. Se aplicó un modelo de Árbol de Decisión (`DecisionTreeClassifier`) que alcanzó una exactitud del 77.22% en el conjunto de prueba. Los resultados sugieren que la disponibilidad de computadoras y teléfonos celulares son los factores más relevantes para predecir el nivel de conectividad de una localidad. Este trabajo busca servir como evidencia de portafolio profesional y como un ejercicio reproducible de análisis de datos públicos.
+Este artículo presenta un análisis de clasificación supervisada aplicado a los 36 municipios del estado de Morelos, México, para determinar si es posible identificar municipios de alta o baja conectividad a internet a partir del equipamiento tecnológico de sus viviendas. Se utilizaron datos públicos del INEGI (tabulado de Viviendas, Censo de Población y Vivienda 2020) agregados a nivel municipio. La variable objetivo compara el porcentaje de viviendas con internet de cada municipio contra el **promedio estatal** (~42.7%). Un `DecisionTreeClassifier` entrenado con los porcentajes de viviendas con computadora, TV de paga y celular alcanzó una exactitud de **0.9091** en el conjunto de prueba (10 de 11 municipios), donde la TV de paga resultó el predictor más relevante. El artículo documenta también las limitaciones del análisis, entre ellas el tamaño reducido de la muestra.
 
 ---
 
 ## 1. Introducción
 
-La brecha digital es un fenómeno que afecta de manera desigual a las localidades de México. Mientras que algunas zonas urbanas cuentan con amplia cobertura de servicios de telecomunicaciones, muchas localidades rurales y semiurbanas presentan carencias significativas en el acceso a internet y tecnologías de la información.
+La brecha digital afecta de manera desigual a los municipios de México: algunos cuentan con amplia cobertura de telecomunicaciones, mientras otros presentan carencias significativas de acceso a internet. En Morelos esta disparidad se manifiesta entre sus 36 municipios, y entender qué factores se asocian con un mayor o menor nivel de conectividad es relevante para orientar inversión pública en infraestructura.
 
-En el estado de Morelos, esta disparidad se manifiesta entre sus diferentes municipios y localidades. Comprender qué factores están asociados con un mayor o menor nivel de conectividad digital resulta relevante para orientar políticas públicas de inversión en infraestructura de telecomunicaciones.
-
-La pregunta que guía este análisis es: **¿Es posible clasificar las localidades de Morelos como de alta o baja conectividad digital a partir de indicadores de equipamiento tecnológico en viviendas?**
-
-Para responder esta pregunta se utilizó un enfoque de aprendizaje supervisado con un modelo de clasificación, tomando como base datos oficiales y públicos del INEGI.
+La pregunta que guía este análisis es: **¿es posible clasificar a los municipios de Morelos como de "conectividad alta" o "conectividad baja" usando el porcentaje de viviendas con computadora, TV de paga y celular?** Para responderla se utilizó un enfoque de aprendizaje supervisado con datos oficiales del INEGI.
 
 ---
 
 ## 2. Fuente de datos
 
-Los datos utilizados en este análisis provienen del **Instituto Nacional de Estadística y Geografía (INEGI)**, específicamente de los indicadores del Censo de Población y Vivienda correspondientes al estado de Morelos.
+Los datos provienen del **Instituto Nacional de Estadística y Geografía (INEGI)**, del tabulado de Viviendas del Censo de Población y Vivienda 2020, filtrado al estado de Morelos. Se descargaron mediante **SCITEL** ([inegi.org.mx/app/scitel](https://www.inegi.org.mx/app/scitel/Default?ev=9)), la herramienta del INEGI que permite seleccionar variables e indicadores específicos en vez de descargar el tabulado completo del Censo.
 
-- **Sitio oficial:** [https://www.inegi.org.mx/](https://www.inegi.org.mx/)
-- **Tipo de datos:** indicadores de viviendas particulares habitadas a nivel localidad.
-- **Confiabilidad:** el INEGI es el organismo público autónomo responsable de generar la información estadística oficial de México. Sus datos son de uso libre y ampliamente utilizados en investigaciones académicas y decisiones de política pública.
-
-El dataset original contiene **1,678 registros** y **11 variables**, que incluyen claves geográficas (entidad, municipio, localidad) y cinco indicadores de equipamiento tecnológico en viviendas: electricidad (`VPH_C_ELEC`), internet (`VPH_INTER`), teléfono celular (`VPH_CEL`), TV de paga (`VPH_STVP`) y computadora (`VPH_PC`).
+El dataset original (`data/raw/dataset_original.csv`) contiene **1,678 registros a nivel localidad** y 11 variables: claves geográficas (entidad, municipio, localidad) y cinco indicadores de equipamiento en viviendas — electricidad (`VPH_C_ELEC`), internet (`VPH_INTER`), celular (`VPH_CEL`), TV de paga (`VPH_STVP`) y computadora (`VPH_PC`).
 
 ---
 
 ## 3. Preparación de datos
 
-La preparación de los datos involucró los siguientes pasos:
+**Inspección inicial:** las cinco variables de equipamiento estaban almacenadas como tipo `object` en lugar de numérico, porque el INEGI marca con `*` las cifras confidenciales de localidades con menos de tres viviendas.
 
-### 3.1 Inspección inicial
+**Filtrado a nivel municipio:** el análisis se realiza a nivel municipio, no localidad, por lo que se conservaron únicamente las filas con `MUN > 0` y `LOC == 0`, que el INEGI reporta como "Total del Municipio". Esto redujo el dataset de 1,678 filas de localidad a **36 filas, una por municipio**.
 
-Se verificó la estructura del dataset, identificando que las cinco variables de equipamiento tecnológico estaban almacenadas como tipo `object` en lugar de tipo numérico. Esto se debe a que el INEGI utiliza el carácter `*` para señalar datos confidenciales o no disponibles en localidades con menos de tres viviendas.
+**Limpieza:** las columnas con `*` se convirtieron a numérico (los asteriscos se vuelven `NaN`) y los `NaN` resultantes se imputaron con `0`, bajo la interpretación de que un valor confidencial representa equipamiento mínimo no cuantificado.
 
-### 3.2 Limpieza básica
-
-1. **Eliminación de registros agregados:** se excluyeron los registros correspondientes a totales estatales y municipales (donde `MUN == 0` o `LOC` corresponde a agregados), conservando únicamente las localidades individuales. Tras esta operación el dataset se redujo de 1,678 a **1,578 registros de localidades**.
-
-2. **Conversión de tipos:** las columnas con valores `*` se convirtieron a tipo numérico, transformando los asteriscos en valores `NaN`.
-
-3. **Imputación:** los valores `NaN` resultantes se imputaron con `0`, bajo la interpretación de que localidades sin datos reportados probablemente carecen del equipamiento en cuestión.
-
-### 3.3 Feature engineering
-
-Se calculó una nueva variable `pct_internet`, definida como el porcentaje de viviendas con internet respecto a las viviendas con electricidad en cada localidad:
+**Feature engineering:** se calcularon porcentajes respecto a las viviendas con electricidad (`VPH_C_ELEC`), en vez de usar conteos absolutos, ya que estos últimos reflejan el tamaño poblacional del municipio más que su conectividad relativa:
 
 ```
 pct_internet = (VPH_INTER / VPH_C_ELEC) × 100
+pct_pc       = (VPH_PC    / VPH_C_ELEC) × 100
+pct_stvp     = (VPH_STVP  / VPH_C_ELEC) × 100
+pct_cel      = (VPH_CEL   / VPH_C_ELEC) × 100
 ```
 
-En los casos donde `VPH_C_ELEC` es cero, se asignó el valor `0` a `pct_internet` para evitar divisiones por cero.
+Cuando `VPH_C_ELEC` es cero se asignó `0` a cada porcentaje, para evitar divisiones por cero.
 
-### 3.4 Creación de la variable objetivo
-
-Se creó la variable binaria `conectividad_alta` siguiendo una regla clara:
-
-- Si `pct_internet >= 30` → `conectividad_alta = 1` (Alta)
-- Si `pct_internet < 30` → `conectividad_alta = 0` (Baja/Media)
-
-La distribución resultante fue: **57.1%** localidades clasificadas como Baja/Media y **42.9%** como Alta, lo que indica un balance razonable entre clases.
+**Variable objetivo:** se creó la variable binaria `conectividad_alta` comparando cada municipio contra el **promedio estatal** de `pct_internet` sobre los 36 municipios (~42.65%), en vez de un umbral fijo elegido arbitrariamente: `1` (Alta) si `pct_internet >= promedio estatal`, `0` (Baja/Media) en otro caso. La distribución resultante fue **20 municipios (55.6%) Baja/Media** y **16 municipios (44.4%) Alta**.
 
 ---
 
 ## 4. Selección de variables
 
-Se definieron como variables predictoras (`X`):
+Se definieron como predictoras (`X`) los porcentajes de equipamiento `pct_pc` (computadora), `pct_stvp` (TV de paga) y `pct_cel` (celular). `pct_internet` se excluyó por haberse usado directamente para construir la variable objetivo (fuga de datos).
 
-- **Variables numéricas:** `VPH_C_ELEC`, `VPH_CEL`, `VPH_STVP`, `VPH_PC`
-- **Variable categórica:** `NOM_MUN` (nombre del municipio)
-
-La variable `VPH_INTER` se excluyó del conjunto de predictores porque fue utilizada directamente para construir la variable objetivo, lo cual habría generado fuga de datos (data leakage).
-
-La variable categórica `NOM_MUN` se transformó mediante **One-Hot Encoding** para generar indicadores binarios para cada municipio.
+`NOM_MUN` (nombre del municipio) tampoco se usó como predictor: a nivel municipio cada fila corresponde a un municipio distinto, así que codificarlo equivaldría a darle al modelo un identificador único por observación — el árbol podría "memorizar" cada municipio del entrenamiento en vez de aprender un patrón generalizable.
 
 ---
 
 ## 5. Análisis exploratorio
 
-Antes de aplicar el modelo, se realizó un análisis exploratorio para comprender la distribución de los datos.
+El histograma de `pct_internet` para los 36 municipios, con el umbral de conectividad alta (~42.7%) marcado, muestra una concentración de municipios entre 25% y 50%, con una cola derecha que llega a poco más de 70%:
 
-### 5.1 Distribución del porcentaje de internet
+![Distribución de pct_internet](imagenes/grafica_1.png)
 
-Se construyó un histograma del porcentaje de viviendas con internet (`pct_internet`). La distribución muestra una concentración de localidades con valores bajos (entre 0% y 20%), con una cola derecha que se extiende hasta el 100%. El umbral del 30% utilizado para la clasificación queda ubicado en una zona de transición entre la mayoría de localidades con baja conectividad y aquellas con conectividad moderada a alta.
+El conteo de la variable objetivo confirma un balance razonable entre clases (20 Baja/Media vs. 16 Alta), suficiente para entrenar el modelo sin técnicas de balanceo:
 
-### 5.2 Conteo de clases
-
-La distribución de la variable objetivo muestra 901 localidades en la clase 0 (Baja/Media) y 677 en la clase 1 (Alta). Este balance relativo permite entrenar el modelo sin necesidad de técnicas de balanceo de clases.
-
-Las gráficas generadas se encuentran en la carpeta `imagenes/` del repositorio.
+![Conteo de clases](imagenes/grafica_2.png)
 
 ---
 
 ## 6. Metodología
 
-### 6.1 Modelo seleccionado
+Se utilizó un **Árbol de Decisión** (`DecisionTreeClassifier` de scikit-learn) por su interpretabilidad: permite identificar qué variables influyen más en la clasificación, algo especialmente útil con un conjunto de datos tan pequeño.
 
-Se utilizó un modelo de **Árbol de Decisión** (`DecisionTreeClassifier` de scikit-learn) por las siguientes razones:
-
-- Es un modelo de aprendizaje supervisado adecuado cuando se cuenta con una variable objetivo definida.
-- Su estructura es interpretable, lo que permite identificar qué variables influyen más en la clasificación.
-- Es un modelo visto durante la materia y apropiado para el alcance del proyecto.
-
-### 6.2 Configuración del modelo
-
-- **Profundidad máxima:** `max_depth = 4` para evitar sobreajuste.
-- **Criterio de división:** Gini.
-- **Semilla aleatoria:** `random_state = 42` para reproducibilidad.
-
-### 6.3 Entrenamiento y evaluación
-
-El dataset se dividió en conjunto de entrenamiento (70%) y conjunto de prueba (30%), aplicando estratificación sobre la variable objetivo para mantener la proporción de clases:
-
-- **Entrenamiento:** 1,104 localidades.
-- **Prueba:** 474 localidades.
+Configuración: profundidad máxima `max_depth = 4` (para evitar sobreajuste), criterio de división Gini, y `random_state = 42` para reproducibilidad. El dataset (36 municipios) se dividió en entrenamiento (70%, 25 municipios) y prueba (30%, 11 municipios), estratificando sobre la variable objetivo.
 
 ---
 
 ## 7. Resultados
 
-El modelo entrenado produjo los siguientes resultados sobre el conjunto de prueba:
+El modelo produjo los siguientes resultados sobre el conjunto de prueba (11 municipios):
 
-| Métrica        | Clase 0 (Baja/Media) | Clase 1 (Alta) | Promedio ponderado |
-|---------------|:--------------------:|:--------------:|:------------------:|
-| Precision     | 0.86                 | 0.69           | 0.79               |
-| Recall        | 0.72                 | 0.84           | 0.77               |
-| F1-Score      | 0.78                 | 0.76           | 0.77               |
+| Métrica        | Clase 0 (Baja/Media) | Clase 1 (Alta) | Macro avg | Promedio ponderado |
+|---------------|:---------------------:|:---------------:|:---------:|:-------------------:|
+| Precision     | 0.857                 | 1.000            | 0.929     | 0.922                |
+| Recall        | 1.000                 | 0.800            | 0.900     | 0.909                |
+| F1-Score      | 0.923                 | 0.889            | 0.906     | 0.908                |
+| Support       | 6                      | 5                | 11        | 11                   |
 
-**Exactitud global (Accuracy):** 0.7722 (77.22%)
+**Exactitud global (Accuracy): 0.9091** (10 de 11 municipios correctamente clasificados). El único error fue un falso negativo: un municipio de conectividad alta real fue clasificado como baja/media. Con solo 11 municipios de prueba, cada caso representa cerca de 9 puntos porcentuales de la métrica, por lo que esta cifra debe leerse como señal de que las variables elegidas son informativas, no como una estimación precisa del desempeño del modelo.
 
-La matriz de confusión muestra que el modelo clasifica correctamente la mayoría de las localidades en ambas clases, aunque presenta una tendencia ligeramente mayor a clasificar localidades de baja conectividad como alta (falsos positivos de la clase 1).
-
-Se generó además una visualización del árbol de decisión entrenado, que permite observar las reglas de clasificación utilizadas en cada nodo.
+Según `feature_importances_`, la variable con mayor peso predictivo fue **`pct_stvp`**, seguida de **`pct_pc`** y, en menor medida, **`pct_cel`**.
 
 ---
 
 ## 8. Interpretación
 
-Con los datos analizados se observa lo siguiente:
+La disponibilidad de TV de paga (`pct_stvp`) es la variable con mayor peso dentro del árbol, seguida de la disponibilidad de computadoras (`pct_pc`). Esto sugiere que los municipios con mayor penetración de estos servicios tienden también a tener mayor acceso a internet, posiblemente porque los tres dependen de infraestructura de telecomunicaciones e ingreso disponible similares.
 
-1. **Variables clave:** la disponibilidad de **computadoras (`VPH_PC`)** y **teléfonos celulares (`VPH_CEL`)** son las variables con mayor peso predictivo dentro del árbol de decisión. Esto sugiere que las localidades con mayor penetración de estos dispositivos tienden a tener también mayor acceso a internet.
-
-2. **Diferencias municipales:** la inclusión de variables indicadoras por municipio permite al modelo capturar diferencias estructurales en conectividad entre los distintos municipios de Morelos, aunque su contribución es menor comparada con las variables numéricas de equipamiento.
-
-3. **Aplicación práctica:** los resultados sugieren que un modelo relativamente sencillo puede identificar patrones de conectividad a nivel localidad. Bajo las variables consideradas, se encontraron asociaciones consistentes entre el equipamiento tecnológico doméstico y el acceso a internet.
-
-Es importante señalar que este resultado debe interpretarse con cuidado, ya que el modelo no demuestra causalidad. La disponibilidad de computadoras no necesariamente causa mayor conectividad a internet; ambos indicadores podrían estar asociados con variables latentes como el nivel socioeconómico de la localidad.
+Este resultado debe interpretarse con cuidado: el modelo no demuestra causalidad. La disponibilidad de TV de paga o computadoras no necesariamente *causa* mayor conectividad; los tres indicadores podrían estar asociados con variables latentes como el nivel socioeconómico o la infraestructura de telecomunicaciones del municipio.
 
 ---
 
 ## 9. Limitaciones
 
-Todo análisis tiene limitaciones que deben reconocerse:
+1. **Muestra chica:** el análisis trabaja con solo 36 municipios, 11 de ellos en el conjunto de prueba. La exactitud reportada (0.9091) tiene varianza alta: cambiar la partición aleatoria (`random_state`) puede modificarla de forma notoria, ya que cada municipio de prueba representa cerca de 9 puntos porcentuales de la métrica.
 
-1. **Datos de un periodo específico:** los datos corresponden a un corte censal específico y no capturan cambios temporales en la conectividad digital.
+2. **Datos agregados a nivel municipio:** al usar el total municipal (`LOC == 0`) se pierde la variación interna entre localidades; un municipio con localidades muy dispares en conectividad queda representado por un solo promedio.
 
-2. **Datos agregados:** los indicadores están agregados a nivel vivienda, no a nivel individual, lo cual limita la granularidad del análisis.
+3. **Datos de un periodo censal específico:** las cifras corresponden al Censo 2020 y no capturan cambios posteriores en la conectividad, como la expansión de infraestructura de telecomunicaciones ocurrida desde entonces.
 
-3. **Valores confidenciales:** las cifras marcadas como `*` por el INEGI fueron imputadas con 0. Esta decisión puede subestimar los valores reales en localidades muy pequeñas.
+4. **Variable faltante — ocupantes por vivienda:** el promedio de ocupantes por vivienda es un indicador socioeconómico que podría enriquecer el modelo, pero no está disponible en este tabulado del Censo 2020, por lo que se omitió en vez de aproximarlo con datos fuera del dataset.
 
-4. **Umbral arbitrario:** la etiqueta `conectividad_alta` se creó con un umbral del 30% que, aunque razonable, no representa una verdad absoluta. Diferentes umbrales producirían clasificaciones distintas.
+5. **Confidencialidad de los datos base:** el INEGI marca con `*` las cifras de localidades individuales con menos de tres viviendas. Este análisis usa directamente los totales que el propio INEGI reporta por municipio (`LOC == 0`), donde no aparece ningún valor confidencial — el paso de imputación `* → 0` del código no llega a aplicarse aquí. Sin embargo, no es posible verificar con este tabulado si esos totales municipales incorporan por completo el equipamiento de las localidades pequeñas suprimidas, o si quedan subrepresentadas en el agregado.
 
-5. **El modelo no demuestra causalidad:** las asociaciones encontradas entre equipamiento tecnológico y conectividad no implican relaciones causales.
+6. **Umbral de la etiqueta:** `conectividad_alta` se define contra el promedio estatal de `pct_internet` (~42.7%), un criterio propio de este análisis que no representa un estándar oficial de conectividad definido por INEGI ni por ninguna otra fuente.
 
-6. **Variables faltantes:** no se incluyeron variables socioeconómicas adicionales (ingreso, escolaridad, densidad poblacional) que podrían mejorar la capacidad predictiva del modelo.
+7. **El modelo no demuestra causalidad**, y simplifica un fenómeno socioeconómico complejo a solo tres variables de equipamiento del hogar, sin captar cobertura de red, costo del servicio o alfabetización digital.
 
-7. **Generalización:** el análisis se limita al estado de Morelos, por lo que los resultados no son generalizables al resto del país sin validación adicional.
-
-8. **Posible sesgo de captura:** las localidades más pequeñas y remotas son precisamente aquellas con mayor probabilidad de tener datos confidenciales, lo cual introduce un sesgo hacia la subestimación de su equipamiento.
+8. **Generalización:** el análisis se limita a Morelos; los resultados no son generalizables a otros estados sin validación adicional.
 
 ---
 
 ## 10. Conclusiones
 
-A partir del análisis realizado se pueden establecer las siguientes conclusiones:
+Los resultados sugieren que es posible clasificar municipios de Morelos según su nivel de conectividad a internet utilizando el porcentaje de viviendas con computadora, TV de paga y celular, con una exactitud de 0.9091 sobre un conjunto de prueba de 11 municipios. La disponibilidad de TV de paga y de computadoras resultaron los indicadores más fuertemente asociados con el acceso a internet a nivel municipio.
 
-1. Los resultados sugieren que es posible clasificar localidades de Morelos según su nivel de conectividad digital utilizando indicadores de equipamiento tecnológico en viviendas, con una exactitud del 77.22%.
-
-2. Con los datos disponibles se observa que la disponibilidad de computadoras y teléfonos celulares son los indicadores más fuertemente asociados con el acceso a internet a nivel localidad.
-
-3. El análisis confirma la existencia de una brecha digital significativa dentro del estado de Morelos, donde más de la mitad de las localidades analizadas presentan un nivel de conectividad clasificado como bajo o medio.
-
-4. Bajo las variables consideradas, se encontró que un modelo de Árbol de Decisión con profundidad limitada puede capturar patrones relevantes de conectividad, lo que sugiere su utilidad como herramienta de exploración inicial para la identificación de zonas con déficit digital.
-
-5. Este tipo de análisis podría servir como insumo para focalizar la inversión pública en infraestructura de telecomunicaciones en las localidades que más lo necesitan, aunque se requeriría complementar con información adicional y validación en campo.
+Dado el tamaño reducido de la muestra, este resultado debe leerse como evidencia de que las variables elegidas son informativas, no como una estimación robusta del desempeño del modelo. Este tipo de análisis podría servir como insumo exploratorio para focalizar inversión pública en telecomunicaciones, aunque requeriría complementarse con variables socioeconómicas, datos longitudinales y validación en campo antes de usarse en decisiones de política pública.
 
 ---
 
 ## 11. Referencias
 
-1. Instituto Nacional de Estadística y Geografía (INEGI). Censo de Población y Vivienda. Disponible en: [https://www.inegi.org.mx/](https://www.inegi.org.mx/)
+1. Instituto Nacional de Estadística y Geografía (INEGI). Censo de Población y Vivienda 2020, vía SCITEL. Disponible en: [https://www.inegi.org.mx/app/scitel/Default?ev=9](https://www.inegi.org.mx/app/scitel/Default?ev=9)
 
 2. scikit-learn. `DecisionTreeClassifier`. Documentación oficial. Disponible en: [https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
-
-3. Pedregosa, F. et al. (2011). Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research*, 12, 2825–2830.
-
-4. McKinney, W. (2010). Data Structures for Statistical Computing in Python. *Proceedings of the 9th Python in Science Conference*, 51–56.
-
-5. Hunter, J. D. (2007). Matplotlib: A 2D Graphics Environment. *Computing in Science & Engineering*, 9(3), 90–95.
